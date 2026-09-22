@@ -4,10 +4,6 @@
 **Prepared by:** Sajid Ali  
 **Repository name required by the internship:** `FUTURE_DS_03`
 
-![Static overview of the interactive CONVERT marketing dashboard using the included dataset](dashboard/dashboard.png)
-
-### [🚀 Open the live interactive dashboard](https://sajidexpertise.github.io/FUTURE_DS_03/)
-
 > The link works **after** publishing this repository to GitHub Pages from the `main` branch and `/ (root)`. The repository root contains `index.html`, so the live link opens the dashboard directly.
 
 ## Task goal
@@ -15,6 +11,24 @@
 Analyze a marketing funnel to identify stage drop-offs, compare channels, and suggest experiments to improve lead-to-customer conversion. The dashboard visualizes impressions → clicks → leads → qualified leads → customers, with filterable metrics and channel comparisons.
 
 **Data integrity:** The included data is **synthetic and generated for learning**, not observations from an actual company. Figures, dates, performance and recommendations must not be presented as real business outcomes. Currency is PKR for simulated marketing spend; funnel counts and conversion rates do not depend on currency.
+
+## 📊 Interactive Dashboard Preview
+
+<p align="center">
+  <a href="https://sajidexpertise.github.io/FUTURE_DS_03/">
+    <img src="dashboard/dashboard.png"
+         alt="CONVERT Marketing Funnel and Conversion Performance Dashboard — Future Interns Task 3"
+         width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://sajidexpertise.github.io/FUTURE_DS_03/">
+      🚀 Open the Live Interactive Dashboard
+    </a>
+  </strong>
+</p>
 
 ## What is included
 
