@@ -1,0 +1,97 @@
+{
+  "notice": "SIMULATED portfolio data; no actual business performance is implied",
+  "records": 1350,
+  "period": "2024-04-01 to 2024-04-30",
+  "previous_period": "2024-03-01 to 2024-03-31",
+  "current": {
+    "impressions": 110364.0,
+    "clicks": 33855.0,
+    "leads": 12789.0,
+    "qualified_leads": 1868.0,
+    "customers": 716.0,
+    "spend_pkr": 3370553.0
+  },
+  "previous": {
+    "impressions": 109642.0,
+    "clicks": 33505.0,
+    "leads": 12476.0,
+    "qualified_leads": 1801.0,
+    "customers": 671.0,
+    "spend_pkr": 3377574.0
+  },
+  "sources": {
+    "Display": {
+      "impressions": 18297.0,
+      "clicks": 4133.0,
+      "leads": 1217.0,
+      "qualified_leads": 100.0,
+      "customers": 37.0,
+      "spend_pkr": 281044.0
+    },
+    "Email": {
+      "impressions": 9753.0,
+      "clicks": 4183.0,
+      "leads": 1608.0,
+      "qualified_leads": 334.0,
+      "customers": 140.0,
+      "spend_pkr": 200784.0
+    },
+    "Organic Search": {
+      "impressions": 22889.0,
+      "clicks": 7077.0,
+      "leads": 2708.0,
+      "qualified_leads": 411.0,
+      "customers": 156.0,
+      "spend_pkr": 247695.0
+    },
+    "Paid Search": {
+      "impressions": 32110.0,
+      "clicks": 10808.0,
+      "leads": 4582.0,
+      "qualified_leads": 747.0,
+      "customers": 302.0,
+      "spend_pkr": 1837360.0
+    },
+    "Paid Social": {
+      "impressions": 27315.0,
+      "clicks": 7654.0,
+      "leads": 2674.0,
+      "qualified_leads": 276.0,
+      "customers": 81.0,
+      "spend_pkr": 803670.0
+    }
+  },
+  "stage_losses": [
+    {
+      "from": "impressions",
+      "to": "clicks",
+      "lost": 76509,
+      "drop_off_pct": 69.32
+    },
+    {
+      "from": "clicks",
+      "to": "leads",
+      "lost": 21066,
+      "drop_off_pct": 62.22
+    },
+    {
+      "from": "leads",
+      "to": "qualified_leads",
+      "lost": 10921,
+      "drop_off_pct": 85.39
+    },
+    {
+      "from": "qualified_leads",
+      "to": "customers",
+      "lost": 1152,
+      "drop_off_pct": 61.67
+    }
+  ],
+  "biggest_absolute_loss": {
+    "from": "impressions",
+    "to": "clicks",
+    "lost": 76509,
+    "drop_off_pct": 69.32
+  },
+  "overall_conversion_pct": 0.6488
+}

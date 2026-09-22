@@ -1,0 +1,1351 @@
+date,source,device,campaign,impressions,clicks,leads,qualified_leads,customers,spend_pkr
+2024-02-01,Paid Search,Desktop,Paid Search / Desktop,421,153,55,11,4,26010.0
+2024-02-01,Paid Search,Mobile,Paid Search / Mobile,662,189,95,18,6,32130.0
+2024-02-01,Paid Search,Tablet,Paid Search / Tablet,103,29,14,2,1,4930.0
+2024-02-01,Organic Search,Desktop,Organic Search / Desktop,286,98,34,5,2,3430.0
+2024-02-01,Organic Search,Mobile,Organic Search / Mobile,307,75,23,4,2,2625.0
+2024-02-01,Organic Search,Tablet,Organic Search / Tablet,82,23,9,1,0,805.0
+2024-02-01,Paid Social,Desktop,Paid Social / Desktop,335,120,35,4,2,12600.0
+2024-02-01,Paid Social,Mobile,Paid Social / Mobile,529,125,40,4,2,13125.0
+2024-02-01,Paid Social,Tablet,Paid Social / Tablet,100,25,8,1,0,2625.0
+2024-02-01,Email,Desktop,Email / Desktop,99,47,15,4,2,2256.0
+2024-02-01,Email,Mobile,Email / Mobile,137,56,21,5,2,2688.0
+2024-02-01,Email,Tablet,Email / Tablet,33,13,6,1,0,624.0
+2024-02-01,Display,Desktop,Display / Desktop,257,64,19,1,0,4352.0
+2024-02-01,Display,Mobile,Display / Mobile,300,59,15,2,1,4012.0
+2024-02-01,Display,Tablet,Display / Tablet,60,13,4,0,0,884.0
+2024-02-02,Paid Search,Desktop,Paid Search / Desktop,320,128,60,10,4,21760.0
+2024-02-02,Paid Search,Mobile,Paid Search / Mobile,462,130,49,8,3,22100.0
+2024-02-02,Paid Search,Tablet,Paid Search / Tablet,84,26,11,2,1,4420.0
+2024-02-02,Organic Search,Desktop,Organic Search / Desktop,222,79,26,4,1,2765.0
+2024-02-02,Organic Search,Mobile,Organic Search / Mobile,409,96,30,4,2,3360.0
+2024-02-02,Organic Search,Tablet,Organic Search / Tablet,59,17,8,1,0,595.0
+2024-02-02,Paid Social,Desktop,Paid Social / Desktop,351,116,44,5,2,12180.0
+2024-02-02,Paid Social,Mobile,Paid Social / Mobile,498,113,35,3,1,11865.0
+2024-02-02,Paid Social,Tablet,Paid Social / Tablet,104,28,10,1,0,2940.0
+2024-02-02,Email,Desktop,Email / Desktop,87,44,17,4,2,2112.0
+2024-02-02,Email,Mobile,Email / Mobile,128,44,18,4,1,2112.0
+2024-02-02,Email,Tablet,Email / Tablet,37,15,6,1,0,720.0
+2024-02-02,Display,Desktop,Display / Desktop,203,58,18,1,0,3944.0
+2024-02-02,Display,Mobile,Display / Mobile,387,77,23,2,1,5236.0
+2024-02-02,Display,Tablet,Display / Tablet,54,12,4,0,0,816.0
+2024-02-03,Paid Search,Desktop,Paid Search / Desktop,351,125,59,7,3,21250.0
+2024-02-03,Paid Search,Mobile,Paid Search / Mobile,464,121,42,8,3,20570.0
+2024-02-03,Paid Search,Tablet,Paid Search / Tablet,88,31,12,2,1,5270.0
+2024-02-03,Organic Search,Desktop,Organic Search / Desktop,293,112,47,8,3,3920.0
+2024-02-03,Organic Search,Mobile,Organic Search / Mobile,337,97,40,5,2,3395.0
+2024-02-03,Organic Search,Tablet,Organic Search / Tablet,64,20,8,1,0,700.0
+2024-02-03,Paid Social,Desktop,Paid Social / Desktop,272,97,35,3,1,10185.0
+2024-02-03,Paid Social,Mobile,Paid Social / Mobile,391,83,26,3,1,8715.0
+2024-02-03,Paid Social,Tablet,Paid Social / Tablet,69,16,5,0,0,1680.0
+2024-02-03,Email,Desktop,Email / Desktop,118,60,19,5,2,2880.0
+2024-02-03,Email,Mobile,Email / Mobile,162,54,18,3,1,2592.0
+2024-02-03,Email,Tablet,Email / Tablet,32,15,5,1,1,720.0
+2024-02-03,Display,Desktop,Display / Desktop,160,45,15,1,0,3060.0
+2024-02-03,Display,Mobile,Display / Mobile,248,48,15,1,0,3264.0
+2024-02-03,Display,Tablet,Display / Tablet,62,12,3,0,0,816.0
+2024-02-04,Paid Search,Desktop,Paid Search / Desktop,403,166,64,11,4,28220.0
+2024-02-04,Paid Search,Mobile,Paid Search / Mobile,550,172,59,9,4,29240.0
+2024-02-04,Paid Search,Tablet,Paid Search / Tablet,127,39,14,2,1,6630.0
+2024-02-04,Organic Search,Desktop,Organic Search / Desktop,325,116,40,7,2,4060.0
+2024-02-04,Organic Search,Mobile,Organic Search / Mobile,336,89,32,4,1,3115.0
+2024-02-04,Organic Search,Tablet,Organic Search / Tablet,67,22,7,1,0,770.0
+2024-02-04,Paid Social,Desktop,Paid Social / Desktop,356,128,37,3,1,13440.0
+2024-02-04,Paid Social,Mobile,Paid Social / Mobile,510,108,35,3,1,11340.0
+2024-02-04,Paid Social,Tablet,Paid Social / Tablet,69,16,6,1,0,1680.0
+2024-02-04,Email,Desktop,Email / Desktop,120,64,21,5,3,3072.0
+2024-02-04,Email,Mobile,Email / Mobile,143,54,19,4,2,2592.0
+2024-02-04,Email,Tablet,Email / Tablet,38,16,7,1,0,768.0
+2024-02-04,Display,Desktop,Display / Desktop,166,48,16,2,1,3264.0
+2024-02-04,Display,Mobile,Display / Mobile,320,57,14,1,0,3876.0
+2024-02-04,Display,Tablet,Display / Tablet,49,10,3,0,0,680.0
+2024-02-05,Paid Search,Desktop,Paid Search / Desktop,472,172,78,9,4,29240.0
+2024-02-05,Paid Search,Mobile,Paid Search / Mobile,475,146,64,10,4,24820.0
+2024-02-05,Paid Search,Tablet,Paid Search / Tablet,107,38,14,2,1,6460.0
+2024-02-05,Organic Search,Desktop,Organic Search / Desktop,289,99,40,5,2,3465.0
+2024-02-05,Organic Search,Mobile,Organic Search / Mobile,362,107,33,4,2,3745.0
+2024-02-05,Organic Search,Tablet,Organic Search / Tablet,66,20,8,1,0,700.0
+2024-02-05,Paid Social,Desktop,Paid Social / Desktop,262,81,32,2,1,8505.0
+2024-02-05,Paid Social,Mobile,Paid Social / Mobile,525,121,41,5,1,12705.0
+2024-02-05,Paid Social,Tablet,Paid Social / Tablet,94,24,7,1,0,2520.0
+2024-02-05,Email,Desktop,Email / Desktop,134,70,31,7,3,3360.0
+2024-02-05,Email,Mobile,Email / Mobile,171,62,23,4,2,2976.0
+2024-02-05,Email,Tablet,Email / Tablet,32,12,5,1,0,576.0
+2024-02-05,Display,Desktop,Display / Desktop,251,68,19,2,1,4624.0
+2024-02-05,Display,Mobile,Display / Mobile,343,75,21,2,0,5100.0
+2024-02-05,Display,Tablet,Display / Tablet,48,11,4,0,0,748.0
+2024-02-06,Paid Search,Desktop,Paid Search / Desktop,358,150,56,10,4,25500.0
+2024-02-06,Paid Search,Mobile,Paid Search / Mobile,562,180,86,11,3,30600.0
+2024-02-06,Paid Search,Tablet,Paid Search / Tablet,130,42,15,2,1,7140.0
+2024-02-06,Organic Search,Desktop,Organic Search / Desktop,254,106,47,5,2,3710.0
+2024-02-06,Organic Search,Mobile,Organic Search / Mobile,483,133,50,7,3,4655.0
+2024-02-06,Organic Search,Tablet,Organic Search / Tablet,64,17,6,1,0,595.0
+2024-02-06,Paid Social,Desktop,Paid Social / Desktop,233,86,27,3,1,9030.0
+2024-02-06,Paid Social,Mobile,Paid Social / Mobile,515,125,34,4,1,13125.0
+2024-02-06,Paid Social,Tablet,Paid Social / Tablet,103,30,11,1,0,3150.0
+2024-02-06,Email,Desktop,Email / Desktop,85,50,20,5,3,2400.0
+2024-02-06,Email,Mobile,Email / Mobile,195,78,31,5,2,3744.0
+2024-02-06,Email,Tablet,Email / Tablet,24,11,4,1,0,528.0
+2024-02-06,Display,Desktop,Display / Desktop,202,56,14,1,0,3808.0
+2024-02-06,Display,Mobile,Display / Mobile,295,57,17,2,1,3876.0
+2024-02-06,Display,Tablet,Display / Tablet,63,14,4,0,0,952.0
+2024-02-07,Paid Search,Desktop,Paid Search / Desktop,354,144,63,8,4,24480.0
+2024-02-07,Paid Search,Mobile,Paid Search / Mobile,658,191,66,13,6,32470.0
+2024-02-07,Paid Search,Tablet,Paid Search / Tablet,98,31,11,2,1,5270.0
+2024-02-07,Organic Search,Desktop,Organic Search / Desktop,281,100,30,3,1,3500.0
+2024-02-07,Organic Search,Mobile,Organic Search / Mobile,331,94,32,6,3,3290.0
+2024-02-07,Organic Search,Tablet,Organic Search / Tablet,62,18,6,1,0,630.0
+2024-02-07,Paid Social,Desktop,Paid Social / Desktop,286,100,36,4,1,10500.0
+2024-02-07,Paid Social,Mobile,Paid Social / Mobile,537,136,53,5,2,14280.0
+2024-02-07,Paid Social,Tablet,Paid Social / Tablet,70,17,5,1,0,1785.0
+2024-02-07,Email,Desktop,Email / Desktop,110,51,18,4,2,2448.0
+2024-02-07,Email,Mobile,Email / Mobile,145,52,21,3,1,2496.0
+2024-02-07,Email,Tablet,Email / Tablet,35,15,5,1,0,720.0
+2024-02-07,Display,Desktop,Display / Desktop,189,51,13,1,0,3468.0
+2024-02-07,Display,Mobile,Display / Mobile,247,48,13,1,0,3264.0
+2024-02-07,Display,Tablet,Display / Tablet,53,11,4,0,0,748.0
+2024-02-08,Paid Search,Desktop,Paid Search / Desktop,402,185,72,9,3,31450.0
+2024-02-08,Paid Search,Mobile,Paid Search / Mobile,631,167,72,11,4,28390.0
+2024-02-08,Paid Search,Tablet,Paid Search / Tablet,109,32,14,3,1,5440.0
+2024-02-08,Organic Search,Desktop,Organic Search / Desktop,273,104,36,5,2,3640.0
+2024-02-08,Organic Search,Mobile,Organic Search / Mobile,457,132,46,7,2,4620.0
+2024-02-08,Organic Search,Tablet,Organic Search / Tablet,72,22,7,1,0,770.0
+2024-02-08,Paid Social,Desktop,Paid Social / Desktop,344,118,32,3,1,12390.0
+2024-02-08,Paid Social,Mobile,Paid Social / Mobile,414,107,37,3,1,11235.0
+2024-02-08,Paid Social,Tablet,Paid Social / Tablet,84,20,6,0,0,2100.0
+2024-02-08,Email,Desktop,Email / Desktop,90,44,17,4,2,2112.0
+2024-02-08,Email,Mobile,Email / Mobile,155,51,23,4,2,2448.0
+2024-02-08,Email,Tablet,Email / Tablet,29,12,5,1,0,576.0
+2024-02-08,Display,Desktop,Display / Desktop,176,45,12,1,0,3060.0
+2024-02-08,Display,Mobile,Display / Mobile,373,72,19,2,1,4896.0
+2024-02-08,Display,Tablet,Display / Tablet,48,10,3,0,0,680.0
+2024-02-09,Paid Search,Desktop,Paid Search / Desktop,366,143,54,11,5,24310.0
+2024-02-09,Paid Search,Mobile,Paid Search / Mobile,473,131,64,8,3,22270.0
+2024-02-09,Paid Search,Tablet,Paid Search / Tablet,132,40,18,2,1,6800.0
+2024-02-09,Organic Search,Desktop,Organic Search / Desktop,204,71,32,4,2,2485.0
+2024-02-09,Organic Search,Mobile,Organic Search / Mobile,379,101,44,7,3,3535.0
+2024-02-09,Organic Search,Tablet,Organic Search / Tablet,87,28,9,1,0,980.0
+2024-02-09,Paid Social,Desktop,Paid Social / Desktop,259,88,34,5,2,9240.0
+2024-02-09,Paid Social,Mobile,Paid Social / Mobile,534,139,44,4,1,14595.0
+2024-02-09,Paid Social,Tablet,Paid Social / Tablet,89,24,8,1,0,2520.0
+2024-02-09,Email,Desktop,Email / Desktop,93,54,23,5,2,2592.0
+2024-02-09,Email,Mobile,Email / Mobile,157,55,23,4,2,2640.0
+2024-02-09,Email,Tablet,Email / Tablet,36,14,6,1,0,672.0
+2024-02-09,Display,Desktop,Display / Desktop,226,64,21,2,1,4352.0
+2024-02-09,Display,Mobile,Display / Mobile,365,66,19,1,0,4488.0
+2024-02-09,Display,Tablet,Display / Tablet,71,17,6,1,0,1156.0
+2024-02-10,Paid Search,Desktop,Paid Search / Desktop,310,126,57,8,2,21420.0
+2024-02-10,Paid Search,Mobile,Paid Search / Mobile,439,129,59,12,6,21930.0
+2024-02-10,Paid Search,Tablet,Paid Search / Tablet,95,34,16,3,1,5780.0
+2024-02-10,Organic Search,Desktop,Organic Search / Desktop,219,85,30,4,2,2975.0
+2024-02-10,Organic Search,Mobile,Organic Search / Mobile,462,121,46,7,2,4235.0
+2024-02-10,Organic Search,Tablet,Organic Search / Tablet,80,22,10,2,1,770.0
+2024-02-10,Paid Social,Desktop,Paid Social / Desktop,276,90,26,3,1,9450.0
+2024-02-10,Paid Social,Mobile,Paid Social / Mobile,383,89,33,3,1,9345.0
+2024-02-10,Paid Social,Tablet,Paid Social / Tablet,83,23,7,1,0,2415.0
+2024-02-10,Email,Desktop,Email / Desktop,102,51,19,5,3,2448.0
+2024-02-10,Email,Mobile,Email / Mobile,140,56,20,5,2,2688.0
+2024-02-10,Email,Tablet,Email / Tablet,30,11,4,1,0,528.0
+2024-02-10,Display,Desktop,Display / Desktop,195,58,17,1,0,3944.0
+2024-02-10,Display,Mobile,Display / Mobile,293,60,15,1,0,4080.0
+2024-02-10,Display,Tablet,Display / Tablet,72,14,4,0,0,952.0
+2024-02-11,Paid Search,Desktop,Paid Search / Desktop,458,179,82,11,3,30430.0
+2024-02-11,Paid Search,Mobile,Paid Search / Mobile,491,150,59,9,4,25500.0
+2024-02-11,Paid Search,Tablet,Paid Search / Tablet,109,36,15,3,1,6120.0
+2024-02-11,Organic Search,Desktop,Organic Search / Desktop,302,108,41,5,2,3780.0
+2024-02-11,Organic Search,Mobile,Organic Search / Mobile,369,110,44,6,3,3850.0
+2024-02-11,Organic Search,Tablet,Organic Search / Tablet,76,22,8,1,0,770.0
+2024-02-11,Paid Social,Desktop,Paid Social / Desktop,312,105,32,3,1,11025.0
+2024-02-11,Paid Social,Mobile,Paid Social / Mobile,499,108,32,3,1,11340.0
+2024-02-11,Paid Social,Tablet,Paid Social / Tablet,81,23,7,1,0,2415.0
+2024-02-11,Email,Desktop,Email / Desktop,93,55,21,4,2,2640.0
+2024-02-11,Email,Mobile,Email / Mobile,194,70,31,6,3,3360.0
+2024-02-11,Email,Tablet,Email / Tablet,25,11,4,1,1,528.0
+2024-02-11,Display,Desktop,Display / Desktop,230,62,20,1,0,4216.0
+2024-02-11,Display,Mobile,Display / Mobile,265,57,19,2,1,3876.0
+2024-02-11,Display,Tablet,Display / Tablet,45,10,3,0,0,680.0
+2024-02-12,Paid Search,Desktop,Paid Search / Desktop,414,190,66,11,4,32300.0
+2024-02-12,Paid Search,Mobile,Paid Search / Mobile,458,123,52,9,4,20910.0
+2024-02-12,Paid Search,Tablet,Paid Search / Tablet,83,25,10,2,1,4250.0
+2024-02-12,Organic Search,Desktop,Organic Search / Desktop,239,98,40,7,2,3430.0
+2024-02-12,Organic Search,Mobile,Organic Search / Mobile,401,117,53,7,3,4095.0
+2024-02-12,Organic Search,Tablet,Organic Search / Tablet,73,24,7,1,0,840.0
+2024-02-12,Paid Social,Desktop,Paid Social / Desktop,235,72,25,2,1,7560.0
+2024-02-12,Paid Social,Mobile,Paid Social / Mobile,455,108,33,4,1,11340.0
+2024-02-12,Paid Social,Tablet,Paid Social / Tablet,94,27,10,1,0,2835.0
+2024-02-12,Email,Desktop,Email / Desktop,97,52,19,4,2,2496.0
+2024-02-12,Email,Mobile,Email / Mobile,171,59,19,5,3,2832.0
+2024-02-12,Email,Tablet,Email / Tablet,37,16,5,1,0,768.0
+2024-02-12,Display,Desktop,Display / Desktop,252,68,24,2,1,4624.0
+2024-02-12,Display,Mobile,Display / Mobile,343,69,24,2,1,4692.0
+2024-02-12,Display,Tablet,Display / Tablet,49,11,4,0,0,748.0
+2024-02-13,Paid Search,Desktop,Paid Search / Desktop,304,135,63,10,3,22950.0
+2024-02-13,Paid Search,Mobile,Paid Search / Mobile,549,144,58,9,4,24480.0
+2024-02-13,Paid Search,Tablet,Paid Search / Tablet,105,32,15,3,1,5440.0
+2024-02-13,Organic Search,Desktop,Organic Search / Desktop,214,90,28,3,1,3150.0
+2024-02-13,Organic Search,Mobile,Organic Search / Mobile,323,90,41,5,2,3150.0
+2024-02-13,Organic Search,Tablet,Organic Search / Tablet,77,23,8,1,0,805.0
+2024-02-13,Paid Social,Desktop,Paid Social / Desktop,367,127,40,5,2,13335.0
+2024-02-13,Paid Social,Mobile,Paid Social / Mobile,392,98,35,3,1,10290.0
+2024-02-13,Paid Social,Tablet,Paid Social / Tablet,72,19,6,1,0,1995.0
+2024-02-13,Email,Desktop,Email / Desktop,128,74,28,6,3,3552.0
+2024-02-13,Email,Mobile,Email / Mobile,125,53,17,4,1,2544.0
+2024-02-13,Email,Tablet,Email / Tablet,28,12,5,1,0,576.0
+2024-02-13,Display,Desktop,Display / Desktop,176,43,13,1,0,2924.0
+2024-02-13,Display,Mobile,Display / Mobile,285,61,20,1,0,4148.0
+2024-02-13,Display,Tablet,Display / Tablet,73,14,4,0,0,952.0
+2024-02-14,Paid Search,Desktop,Paid Search / Desktop,435,176,71,15,4,29920.0
+2024-02-14,Paid Search,Mobile,Paid Search / Mobile,470,120,41,8,3,20400.0
+2024-02-14,Paid Search,Tablet,Paid Search / Tablet,88,31,14,2,1,5270.0
+2024-02-14,Organic Search,Desktop,Organic Search / Desktop,229,89,38,6,2,3115.0
+2024-02-14,Organic Search,Mobile,Organic Search / Mobile,415,106,41,5,2,3710.0
+2024-02-14,Organic Search,Tablet,Organic Search / Tablet,81,21,9,1,0,735.0
+2024-02-14,Paid Social,Desktop,Paid Social / Desktop,305,93,34,3,1,9765.0
+2024-02-14,Paid Social,Mobile,Paid Social / Mobile,357,88,26,2,1,9240.0
+2024-02-14,Paid Social,Tablet,Paid Social / Tablet,72,21,7,1,0,2205.0
+2024-02-14,Email,Desktop,Email / Desktop,121,59,21,4,2,2832.0
+2024-02-14,Email,Mobile,Email / Mobile,185,61,27,5,2,2928.0
+2024-02-14,Email,Tablet,Email / Tablet,24,10,4,1,0,480.0
+2024-02-14,Display,Desktop,Display / Desktop,183,48,12,1,0,3264.0
+2024-02-14,Display,Mobile,Display / Mobile,338,73,19,2,1,4964.0
+2024-02-14,Display,Tablet,Display / Tablet,69,15,4,0,0,1020.0
+2024-02-15,Paid Search,Desktop,Paid Search / Desktop,309,115,48,9,4,19550.0
+2024-02-15,Paid Search,Mobile,Paid Search / Mobile,500,146,51,8,3,24820.0
+2024-02-15,Paid Search,Tablet,Paid Search / Tablet,96,35,16,3,1,5950.0
+2024-02-15,Organic Search,Desktop,Organic Search / Desktop,321,120,45,6,3,4200.0
+2024-02-15,Organic Search,Mobile,Organic Search / Mobile,364,103,32,5,2,3605.0
+2024-02-15,Organic Search,Tablet,Organic Search / Tablet,86,28,9,2,1,980.0
+2024-02-15,Paid Social,Desktop,Paid Social / Desktop,269,101,37,4,1,10605.0
+2024-02-15,Paid Social,Mobile,Paid Social / Mobile,353,96,28,3,1,10080.0
+2024-02-15,Paid Social,Tablet,Paid Social / Tablet,72,19,6,1,0,1995.0
+2024-02-15,Email,Desktop,Email / Desktop,113,64,22,6,3,3072.0
+2024-02-15,Email,Mobile,Email / Mobile,203,69,26,4,2,3312.0
+2024-02-15,Email,Tablet,Email / Tablet,34,14,6,1,0,672.0
+2024-02-15,Display,Desktop,Display / Desktop,252,74,22,2,1,5032.0
+2024-02-15,Display,Mobile,Display / Mobile,301,54,16,1,0,3672.0
+2024-02-15,Display,Tablet,Display / Tablet,52,10,3,0,0,680.0
+2024-02-16,Paid Search,Desktop,Paid Search / Desktop,286,126,55,10,4,21420.0
+2024-02-16,Paid Search,Mobile,Paid Search / Mobile,634,170,78,14,5,28900.0
+2024-02-16,Paid Search,Tablet,Paid Search / Tablet,122,37,15,2,1,6290.0
+2024-02-16,Organic Search,Desktop,Organic Search / Desktop,310,114,45,8,3,3990.0
+2024-02-16,Organic Search,Mobile,Organic Search / Mobile,405,108,48,9,4,3780.0
+2024-02-16,Organic Search,Tablet,Organic Search / Tablet,61,18,8,1,0,630.0
+2024-02-16,Paid Social,Desktop,Paid Social / Desktop,246,85,30,3,1,8925.0
+2024-02-16,Paid Social,Mobile,Paid Social / Mobile,378,87,26,3,1,9135.0
+2024-02-16,Paid Social,Tablet,Paid Social / Tablet,93,24,7,1,0,2520.0
+2024-02-16,Email,Desktop,Email / Desktop,130,75,25,4,2,3600.0
+2024-02-16,Email,Mobile,Email / Mobile,155,60,24,6,3,2880.0
+2024-02-16,Email,Tablet,Email / Tablet,28,11,5,1,0,528.0
+2024-02-16,Display,Desktop,Display / Desktop,208,56,15,1,0,3808.0
+2024-02-16,Display,Mobile,Display / Mobile,370,79,26,3,1,5372.0
+2024-02-16,Display,Tablet,Display / Tablet,48,10,3,0,0,680.0
+2024-02-17,Paid Search,Desktop,Paid Search / Desktop,291,131,62,11,5,22270.0
+2024-02-17,Paid Search,Mobile,Paid Search / Mobile,475,149,60,10,5,25330.0
+2024-02-17,Paid Search,Tablet,Paid Search / Tablet,84,27,14,3,1,4590.0
+2024-02-17,Organic Search,Desktop,Organic Search / Desktop,287,119,51,5,2,4165.0
+2024-02-17,Organic Search,Mobile,Organic Search / Mobile,460,131,51,9,4,4585.0
+2024-02-17,Organic Search,Tablet,Organic Search / Tablet,72,22,9,1,0,770.0
+2024-02-17,Paid Social,Desktop,Paid Social / Desktop,276,96,35,3,1,10080.0
+2024-02-17,Paid Social,Mobile,Paid Social / Mobile,446,105,40,4,2,11025.0
+2024-02-17,Paid Social,Tablet,Paid Social / Tablet,99,27,10,1,0,2835.0
+2024-02-17,Email,Desktop,Email / Desktop,131,63,20,5,2,3024.0
+2024-02-17,Email,Mobile,Email / Mobile,148,58,26,5,2,2784.0
+2024-02-17,Email,Tablet,Email / Tablet,24,11,4,1,1,528.0
+2024-02-17,Display,Desktop,Display / Desktop,231,71,20,2,1,4828.0
+2024-02-17,Display,Mobile,Display / Mobile,336,73,20,1,0,4964.0
+2024-02-17,Display,Tablet,Display / Tablet,67,13,4,0,0,884.0
+2024-02-18,Paid Search,Desktop,Paid Search / Desktop,432,169,66,11,5,28730.0
+2024-02-18,Paid Search,Mobile,Paid Search / Mobile,702,215,78,15,6,36550.0
+2024-02-18,Paid Search,Tablet,Paid Search / Tablet,122,40,19,4,2,6800.0
+2024-02-18,Organic Search,Desktop,Organic Search / Desktop,267,112,42,7,3,3920.0
+2024-02-18,Organic Search,Mobile,Organic Search / Mobile,459,130,42,5,2,4550.0
+2024-02-18,Organic Search,Tablet,Organic Search / Tablet,76,23,10,2,1,805.0
+2024-02-18,Paid Social,Desktop,Paid Social / Desktop,284,95,31,4,2,9975.0
+2024-02-18,Paid Social,Mobile,Paid Social / Mobile,422,115,41,4,1,12075.0
+2024-02-18,Paid Social,Tablet,Paid Social / Tablet,84,21,7,1,0,2205.0
+2024-02-18,Email,Desktop,Email / Desktop,86,43,19,3,1,2064.0
+2024-02-18,Email,Mobile,Email / Mobile,129,51,17,3,1,2448.0
+2024-02-18,Email,Tablet,Email / Tablet,33,12,5,1,0,576.0
+2024-02-18,Display,Desktop,Display / Desktop,223,67,17,1,0,4556.0
+2024-02-18,Display,Mobile,Display / Mobile,262,56,19,2,1,3808.0
+2024-02-18,Display,Tablet,Display / Tablet,56,12,4,0,0,816.0
+2024-02-19,Paid Search,Desktop,Paid Search / Desktop,313,143,51,9,4,24310.0
+2024-02-19,Paid Search,Mobile,Paid Search / Mobile,551,166,69,9,3,28220.0
+2024-02-19,Paid Search,Tablet,Paid Search / Tablet,120,34,13,3,1,5780.0
+2024-02-19,Organic Search,Desktop,Organic Search / Desktop,314,115,41,5,2,4025.0
+2024-02-19,Organic Search,Mobile,Organic Search / Mobile,319,80,36,4,2,2800.0
+2024-02-19,Organic Search,Tablet,Organic Search / Tablet,64,19,8,1,0,665.0
+2024-02-19,Paid Social,Desktop,Paid Social / Desktop,360,138,49,6,2,14490.0
+2024-02-19,Paid Social,Mobile,Paid Social / Mobile,411,93,33,3,1,9765.0
+2024-02-19,Paid Social,Tablet,Paid Social / Tablet,96,26,10,1,0,2730.0
+2024-02-19,Email,Desktop,Email / Desktop,107,56,20,5,2,2688.0
+2024-02-19,Email,Mobile,Email / Mobile,156,57,21,5,2,2736.0
+2024-02-19,Email,Tablet,Email / Tablet,25,11,4,1,0,528.0
+2024-02-19,Display,Desktop,Display / Desktop,184,47,16,2,1,3196.0
+2024-02-19,Display,Mobile,Display / Mobile,249,52,17,1,0,3536.0
+2024-02-19,Display,Tablet,Display / Tablet,60,13,4,0,0,884.0
+2024-02-20,Paid Search,Desktop,Paid Search / Desktop,320,117,48,8,2,19890.0
+2024-02-20,Paid Search,Mobile,Paid Search / Mobile,697,183,83,16,6,31110.0
+2024-02-20,Paid Search,Tablet,Paid Search / Tablet,89,28,14,2,1,4760.0
+2024-02-20,Organic Search,Desktop,Organic Search / Desktop,202,77,33,6,2,2695.0
+2024-02-20,Organic Search,Mobile,Organic Search / Mobile,328,80,25,4,1,2800.0
+2024-02-20,Organic Search,Tablet,Organic Search / Tablet,81,26,11,1,0,910.0
+2024-02-20,Paid Social,Desktop,Paid Social / Desktop,297,108,31,3,1,11340.0
+2024-02-20,Paid Social,Mobile,Paid Social / Mobile,581,126,44,5,1,13230.0
+2024-02-20,Paid Social,Tablet,Paid Social / Tablet,66,17,6,1,0,1785.0
+2024-02-20,Email,Desktop,Email / Desktop,119,64,20,5,2,3072.0
+2024-02-20,Email,Mobile,Email / Mobile,139,49,18,4,2,2352.0
+2024-02-20,Email,Tablet,Email / Tablet,26,10,3,1,0,480.0
+2024-02-20,Display,Desktop,Display / Desktop,164,50,13,1,0,3400.0
+2024-02-20,Display,Mobile,Display / Mobile,276,58,21,1,0,3944.0
+2024-02-20,Display,Tablet,Display / Tablet,72,16,5,0,0,1088.0
+2024-02-21,Paid Search,Desktop,Paid Search / Desktop,336,125,44,8,3,21250.0
+2024-02-21,Paid Search,Mobile,Paid Search / Mobile,535,154,56,7,3,26180.0
+2024-02-21,Paid Search,Tablet,Paid Search / Tablet,130,47,23,4,1,7990.0
+2024-02-21,Organic Search,Desktop,Organic Search / Desktop,252,90,28,4,2,3150.0
+2024-02-21,Organic Search,Mobile,Organic Search / Mobile,366,95,37,6,2,3325.0
+2024-02-21,Organic Search,Tablet,Organic Search / Tablet,67,18,8,1,0,630.0
+2024-02-21,Paid Social,Desktop,Paid Social / Desktop,365,136,43,4,2,14280.0
+2024-02-21,Paid Social,Mobile,Paid Social / Mobile,494,116,44,4,1,12180.0
+2024-02-21,Paid Social,Tablet,Paid Social / Tablet,84,21,6,1,0,2205.0
+2024-02-21,Email,Desktop,Email / Desktop,95,50,22,4,2,2400.0
+2024-02-21,Email,Mobile,Email / Mobile,180,63,23,6,2,3024.0
+2024-02-21,Email,Tablet,Email / Tablet,36,14,5,1,1,672.0
+2024-02-21,Display,Desktop,Display / Desktop,208,63,19,1,0,4284.0
+2024-02-21,Display,Mobile,Display / Mobile,279,55,14,2,1,3740.0
+2024-02-21,Display,Tablet,Display / Tablet,71,16,4,0,0,1088.0
+2024-02-22,Paid Search,Desktop,Paid Search / Desktop,403,149,68,10,3,25330.0
+2024-02-22,Paid Search,Mobile,Paid Search / Mobile,482,149,55,9,4,25330.0
+2024-02-22,Paid Search,Tablet,Paid Search / Tablet,101,35,14,3,1,5950.0
+2024-02-22,Organic Search,Desktop,Organic Search / Desktop,310,128,57,7,3,4480.0
+2024-02-22,Organic Search,Mobile,Organic Search / Mobile,458,115,39,4,1,4025.0
+2024-02-22,Organic Search,Tablet,Organic Search / Tablet,89,26,12,1,0,910.0
+2024-02-22,Paid Social,Desktop,Paid Social / Desktop,293,109,38,3,1,11445.0
+2024-02-22,Paid Social,Mobile,Paid Social / Mobile,379,93,35,3,1,9765.0
+2024-02-22,Paid Social,Tablet,Paid Social / Tablet,73,19,7,1,0,1995.0
+2024-02-22,Email,Desktop,Email / Desktop,87,48,15,3,1,2304.0
+2024-02-22,Email,Mobile,Email / Mobile,200,74,26,5,2,3552.0
+2024-02-22,Email,Tablet,Email / Tablet,34,12,4,1,0,576.0
+2024-02-22,Display,Desktop,Display / Desktop,195,58,16,1,0,3944.0
+2024-02-22,Display,Mobile,Display / Mobile,250,47,15,1,0,3196.0
+2024-02-22,Display,Tablet,Display / Tablet,64,13,5,0,0,884.0
+2024-02-23,Paid Search,Desktop,Paid Search / Desktop,449,176,74,14,5,29920.0
+2024-02-23,Paid Search,Mobile,Paid Search / Mobile,448,120,58,10,5,20400.0
+2024-02-23,Paid Search,Tablet,Paid Search / Tablet,87,27,13,2,1,4590.0
+2024-02-23,Organic Search,Desktop,Organic Search / Desktop,282,101,34,4,2,3535.0
+2024-02-23,Organic Search,Mobile,Organic Search / Mobile,394,106,42,5,2,3710.0
+2024-02-23,Organic Search,Tablet,Organic Search / Tablet,85,28,9,1,0,980.0
+2024-02-23,Paid Social,Desktop,Paid Social / Desktop,241,80,28,2,1,8400.0
+2024-02-23,Paid Social,Mobile,Paid Social / Mobile,472,122,38,3,1,12810.0
+2024-02-23,Paid Social,Tablet,Paid Social / Tablet,85,24,10,1,0,2520.0
+2024-02-23,Email,Desktop,Email / Desktop,103,60,20,4,1,2880.0
+2024-02-23,Email,Mobile,Email / Mobile,200,78,24,4,2,3744.0
+2024-02-23,Email,Tablet,Email / Tablet,34,16,6,1,0,768.0
+2024-02-23,Display,Desktop,Display / Desktop,251,66,19,1,0,4488.0
+2024-02-23,Display,Mobile,Display / Mobile,379,69,22,3,1,4692.0
+2024-02-23,Display,Tablet,Display / Tablet,59,12,3,0,0,816.0
+2024-02-24,Paid Search,Desktop,Paid Search / Desktop,398,166,83,12,4,28220.0
+2024-02-24,Paid Search,Mobile,Paid Search / Mobile,478,149,63,13,6,25330.0
+2024-02-24,Paid Search,Tablet,Paid Search / Tablet,99,33,12,2,1,5610.0
+2024-02-24,Organic Search,Desktop,Organic Search / Desktop,206,79,28,3,1,2765.0
+2024-02-24,Organic Search,Mobile,Organic Search / Mobile,483,122,46,7,3,4270.0
+2024-02-24,Organic Search,Tablet,Organic Search / Tablet,64,21,9,1,0,735.0
+2024-02-24,Paid Social,Desktop,Paid Social / Desktop,246,85,26,3,1,8925.0
+2024-02-24,Paid Social,Mobile,Paid Social / Mobile,531,120,40,5,2,12600.0
+2024-02-24,Paid Social,Tablet,Paid Social / Tablet,78,23,7,1,0,2415.0
+2024-02-24,Email,Desktop,Email / Desktop,130,65,26,4,2,3120.0
+2024-02-24,Email,Mobile,Email / Mobile,153,56,21,5,2,2688.0
+2024-02-24,Email,Tablet,Email / Tablet,32,14,5,1,1,672.0
+2024-02-24,Display,Desktop,Display / Desktop,242,72,23,3,1,4896.0
+2024-02-24,Display,Mobile,Display / Mobile,287,61,19,2,0,4148.0
+2024-02-24,Display,Tablet,Display / Tablet,70,17,5,0,0,1156.0
+2024-02-25,Paid Search,Desktop,Paid Search / Desktop,401,166,57,10,4,28220.0
+2024-02-25,Paid Search,Mobile,Paid Search / Mobile,671,192,69,10,3,32640.0
+2024-02-25,Paid Search,Tablet,Paid Search / Tablet,132,45,18,3,1,7650.0
+2024-02-25,Organic Search,Desktop,Organic Search / Desktop,306,125,46,5,2,4375.0
+2024-02-25,Organic Search,Mobile,Organic Search / Mobile,452,126,47,7,2,4410.0
+2024-02-25,Organic Search,Tablet,Organic Search / Tablet,70,20,7,1,0,700.0
+2024-02-25,Paid Social,Desktop,Paid Social / Desktop,320,117,45,6,2,12285.0
+2024-02-25,Paid Social,Mobile,Paid Social / Mobile,418,98,36,4,1,10290.0
+2024-02-25,Paid Social,Tablet,Paid Social / Tablet,95,28,8,1,0,2940.0
+2024-02-25,Email,Desktop,Email / Desktop,103,59,23,5,2,2832.0
+2024-02-25,Email,Mobile,Email / Mobile,159,53,21,5,2,2544.0
+2024-02-25,Email,Tablet,Email / Tablet,24,10,4,1,0,480.0
+2024-02-25,Display,Desktop,Display / Desktop,227,69,24,2,1,4692.0
+2024-02-25,Display,Mobile,Display / Mobile,275,58,20,2,1,3944.0
+2024-02-25,Display,Tablet,Display / Tablet,69,14,5,1,0,952.0
+2024-02-26,Paid Search,Desktop,Paid Search / Desktop,451,203,78,15,4,34510.0
+2024-02-26,Paid Search,Mobile,Paid Search / Mobile,690,194,92,16,5,32980.0
+2024-02-26,Paid Search,Tablet,Paid Search / Tablet,108,37,15,3,1,6290.0
+2024-02-26,Organic Search,Desktop,Organic Search / Desktop,203,82,33,4,1,2870.0
+2024-02-26,Organic Search,Mobile,Organic Search / Mobile,370,108,43,6,2,3780.0
+2024-02-26,Organic Search,Tablet,Organic Search / Tablet,60,16,6,1,0,560.0
+2024-02-26,Paid Social,Desktop,Paid Social / Desktop,368,141,42,3,1,14805.0
+2024-02-26,Paid Social,Mobile,Paid Social / Mobile,350,76,31,4,1,7980.0
+2024-02-26,Paid Social,Tablet,Paid Social / Tablet,81,24,7,1,0,2520.0
+2024-02-26,Email,Desktop,Email / Desktop,97,50,15,3,2,2400.0
+2024-02-26,Email,Mobile,Email / Mobile,186,71,26,5,2,3408.0
+2024-02-26,Email,Tablet,Email / Tablet,34,12,4,1,0,576.0
+2024-02-26,Display,Desktop,Display / Desktop,251,62,19,1,0,4216.0
+2024-02-26,Display,Mobile,Display / Mobile,238,45,14,2,1,3060.0
+2024-02-26,Display,Tablet,Display / Tablet,67,15,4,0,0,1020.0
+2024-02-27,Paid Search,Desktop,Paid Search / Desktop,310,125,62,10,4,21250.0
+2024-02-27,Paid Search,Mobile,Paid Search / Mobile,686,187,92,15,7,31790.0
+2024-02-27,Paid Search,Tablet,Paid Search / Tablet,85,28,12,1,0,4760.0
+2024-02-27,Organic Search,Desktop,Organic Search / Desktop,307,118,39,5,2,4130.0
+2024-02-27,Organic Search,Mobile,Organic Search / Mobile,336,91,33,5,2,3185.0
+2024-02-27,Organic Search,Tablet,Organic Search / Tablet,83,26,10,2,1,910.0
+2024-02-27,Paid Social,Desktop,Paid Social / Desktop,345,114,33,4,1,11970.0
+2024-02-27,Paid Social,Mobile,Paid Social / Mobile,559,144,40,4,1,15120.0
+2024-02-27,Paid Social,Tablet,Paid Social / Tablet,103,24,7,1,0,2520.0
+2024-02-27,Email,Desktop,Email / Desktop,130,73,22,5,2,3504.0
+2024-02-27,Email,Mobile,Email / Mobile,193,77,27,4,1,3696.0
+2024-02-27,Email,Tablet,Email / Tablet,25,10,3,1,0,480.0
+2024-02-27,Display,Desktop,Display / Desktop,172,42,11,1,0,2856.0
+2024-02-27,Display,Mobile,Display / Mobile,310,56,19,1,0,3808.0
+2024-02-27,Display,Tablet,Display / Tablet,56,13,4,0,0,884.0
+2024-02-28,Paid Search,Desktop,Paid Search / Desktop,352,139,49,10,4,23630.0
+2024-02-28,Paid Search,Mobile,Paid Search / Mobile,638,184,70,13,6,31280.0
+2024-02-28,Paid Search,Tablet,Paid Search / Tablet,127,36,15,2,1,6120.0
+2024-02-28,Organic Search,Desktop,Organic Search / Desktop,283,95,31,4,2,3325.0
+2024-02-28,Organic Search,Mobile,Organic Search / Mobile,294,69,26,5,2,2415.0
+2024-02-28,Organic Search,Tablet,Organic Search / Tablet,90,24,9,1,0,840.0
+2024-02-28,Paid Social,Desktop,Paid Social / Desktop,352,126,50,6,2,13230.0
+2024-02-28,Paid Social,Mobile,Paid Social / Mobile,533,141,39,4,2,14805.0
+2024-02-28,Paid Social,Tablet,Paid Social / Tablet,97,27,8,1,0,2835.0
+2024-02-28,Email,Desktop,Email / Desktop,136,68,21,4,2,3264.0
+2024-02-28,Email,Mobile,Email / Mobile,174,62,25,4,2,2976.0
+2024-02-28,Email,Tablet,Email / Tablet,28,10,3,1,0,480.0
+2024-02-28,Display,Desktop,Display / Desktop,211,58,17,1,0,3944.0
+2024-02-28,Display,Mobile,Display / Mobile,304,57,17,1,0,3876.0
+2024-02-28,Display,Tablet,Display / Tablet,69,14,4,0,0,952.0
+2024-02-29,Paid Search,Desktop,Paid Search / Desktop,382,146,66,10,3,24820.0
+2024-02-29,Paid Search,Mobile,Paid Search / Mobile,711,214,92,13,6,36380.0
+2024-02-29,Paid Search,Tablet,Paid Search / Tablet,120,39,16,2,1,6630.0
+2024-02-29,Organic Search,Desktop,Organic Search / Desktop,285,117,42,7,2,4095.0
+2024-02-29,Organic Search,Mobile,Organic Search / Mobile,436,121,44,8,2,4235.0
+2024-02-29,Organic Search,Tablet,Organic Search / Tablet,73,20,7,1,0,700.0
+2024-02-29,Paid Social,Desktop,Paid Social / Desktop,245,88,30,2,1,9240.0
+2024-02-29,Paid Social,Mobile,Paid Social / Mobile,422,95,31,3,1,9975.0
+2024-02-29,Paid Social,Tablet,Paid Social / Tablet,93,25,8,1,0,2625.0
+2024-02-29,Email,Desktop,Email / Desktop,131,64,28,5,2,3072.0
+2024-02-29,Email,Mobile,Email / Mobile,196,78,26,5,3,3744.0
+2024-02-29,Email,Tablet,Email / Tablet,38,16,7,1,0,768.0
+2024-02-29,Display,Desktop,Display / Desktop,227,58,17,2,1,3944.0
+2024-02-29,Display,Mobile,Display / Mobile,339,58,15,1,0,3944.0
+2024-02-29,Display,Tablet,Display / Tablet,45,9,2,0,0,612.0
+2024-03-01,Paid Search,Desktop,Paid Search / Desktop,435,188,70,11,5,31960.0
+2024-03-01,Paid Search,Mobile,Paid Search / Mobile,589,156,54,7,3,26520.0
+2024-03-01,Paid Search,Tablet,Paid Search / Tablet,98,34,15,2,1,5780.0
+2024-03-01,Organic Search,Desktop,Organic Search / Desktop,271,97,33,5,2,3395.0
+2024-03-01,Organic Search,Mobile,Organic Search / Mobile,366,89,29,4,1,3115.0
+2024-03-01,Organic Search,Tablet,Organic Search / Tablet,88,24,8,1,0,840.0
+2024-03-01,Paid Social,Desktop,Paid Social / Desktop,266,92,29,3,1,9660.0
+2024-03-01,Paid Social,Mobile,Paid Social / Mobile,574,123,39,4,2,12915.0
+2024-03-01,Paid Social,Tablet,Paid Social / Tablet,96,28,9,1,0,2940.0
+2024-03-01,Email,Desktop,Email / Desktop,132,64,29,6,3,3072.0
+2024-03-01,Email,Mobile,Email / Mobile,146,53,18,4,2,2544.0
+2024-03-01,Email,Tablet,Email / Tablet,27,12,5,1,1,576.0
+2024-03-01,Display,Desktop,Display / Desktop,212,66,18,1,0,4488.0
+2024-03-01,Display,Mobile,Display / Mobile,313,61,18,1,0,4148.0
+2024-03-01,Display,Tablet,Display / Tablet,59,14,4,0,0,952.0
+2024-03-02,Paid Search,Desktop,Paid Search / Desktop,326,117,56,11,5,19890.0
+2024-03-02,Paid Search,Mobile,Paid Search / Mobile,678,203,82,10,4,34510.0
+2024-03-02,Paid Search,Tablet,Paid Search / Tablet,131,46,21,4,1,7820.0
+2024-03-02,Organic Search,Desktop,Organic Search / Desktop,315,108,46,8,3,3780.0
+2024-03-02,Organic Search,Mobile,Organic Search / Mobile,302,81,37,5,2,2835.0
+2024-03-02,Organic Search,Tablet,Organic Search / Tablet,78,22,9,1,0,770.0
+2024-03-02,Paid Social,Desktop,Paid Social / Desktop,256,89,33,4,1,9345.0
+2024-03-02,Paid Social,Mobile,Paid Social / Mobile,476,127,42,5,1,13335.0
+2024-03-02,Paid Social,Tablet,Paid Social / Tablet,66,17,7,1,0,1785.0
+2024-03-02,Email,Desktop,Email / Desktop,102,48,19,4,2,2304.0
+2024-03-02,Email,Mobile,Email / Mobile,169,62,20,5,2,2976.0
+2024-03-02,Email,Tablet,Email / Tablet,33,13,5,1,0,624.0
+2024-03-02,Display,Desktop,Display / Desktop,212,60,19,2,1,4080.0
+2024-03-02,Display,Mobile,Display / Mobile,271,55,17,2,1,3740.0
+2024-03-02,Display,Tablet,Display / Tablet,65,13,4,0,0,884.0
+2024-03-03,Paid Search,Desktop,Paid Search / Desktop,361,152,52,7,3,25840.0
+2024-03-03,Paid Search,Mobile,Paid Search / Mobile,568,180,75,12,5,30600.0
+2024-03-03,Paid Search,Tablet,Paid Search / Tablet,106,34,15,3,1,5780.0
+2024-03-03,Organic Search,Desktop,Organic Search / Desktop,303,117,48,5,2,4095.0
+2024-03-03,Organic Search,Mobile,Organic Search / Mobile,355,97,40,7,3,3395.0
+2024-03-03,Organic Search,Tablet,Organic Search / Tablet,71,22,7,1,0,770.0
+2024-03-03,Paid Social,Desktop,Paid Social / Desktop,258,81,31,4,2,8505.0
+2024-03-03,Paid Social,Mobile,Paid Social / Mobile,512,139,46,4,2,14595.0
+2024-03-03,Paid Social,Tablet,Paid Social / Tablet,74,19,8,1,0,1995.0
+2024-03-03,Email,Desktop,Email / Desktop,93,47,15,4,2,2256.0
+2024-03-03,Email,Mobile,Email / Mobile,154,58,26,5,2,2784.0
+2024-03-03,Email,Tablet,Email / Tablet,37,13,6,1,0,624.0
+2024-03-03,Display,Desktop,Display / Desktop,249,63,18,2,1,4284.0
+2024-03-03,Display,Mobile,Display / Mobile,267,54,17,2,1,3672.0
+2024-03-03,Display,Tablet,Display / Tablet,62,14,4,0,0,952.0
+2024-03-04,Paid Search,Desktop,Paid Search / Desktop,345,139,51,9,3,23630.0
+2024-03-04,Paid Search,Mobile,Paid Search / Mobile,584,168,57,11,3,28560.0
+2024-03-04,Paid Search,Tablet,Paid Search / Tablet,106,37,13,2,1,6290.0
+2024-03-04,Organic Search,Desktop,Organic Search / Desktop,254,101,33,4,2,3535.0
+2024-03-04,Organic Search,Mobile,Organic Search / Mobile,431,122,48,7,3,4270.0
+2024-03-04,Organic Search,Tablet,Organic Search / Tablet,84,27,12,2,1,945.0
+2024-03-04,Paid Social,Desktop,Paid Social / Desktop,269,81,32,4,1,8505.0
+2024-03-04,Paid Social,Mobile,Paid Social / Mobile,437,107,38,4,1,11235.0
+2024-03-04,Paid Social,Tablet,Paid Social / Tablet,88,26,8,1,0,2730.0
+2024-03-04,Email,Desktop,Email / Desktop,118,55,19,4,2,2640.0
+2024-03-04,Email,Mobile,Email / Mobile,191,64,29,6,2,3072.0
+2024-03-04,Email,Tablet,Email / Tablet,37,15,6,1,1,720.0
+2024-03-04,Display,Desktop,Display / Desktop,257,68,20,1,0,4624.0
+2024-03-04,Display,Mobile,Display / Mobile,349,75,24,3,1,5100.0
+2024-03-04,Display,Tablet,Display / Tablet,72,14,3,0,0,952.0
+2024-03-05,Paid Search,Desktop,Paid Search / Desktop,428,167,71,14,5,28390.0
+2024-03-05,Paid Search,Mobile,Paid Search / Mobile,605,187,84,13,6,31790.0
+2024-03-05,Paid Search,Tablet,Paid Search / Tablet,97,30,13,2,1,5100.0
+2024-03-05,Organic Search,Desktop,Organic Search / Desktop,257,97,41,7,2,3395.0
+2024-03-05,Organic Search,Mobile,Organic Search / Mobile,459,120,53,6,3,4200.0
+2024-03-05,Organic Search,Tablet,Organic Search / Tablet,72,22,7,1,0,770.0
+2024-03-05,Paid Social,Desktop,Paid Social / Desktop,275,95,29,3,1,9975.0
+2024-03-05,Paid Social,Mobile,Paid Social / Mobile,433,118,42,4,1,12390.0
+2024-03-05,Paid Social,Tablet,Paid Social / Tablet,97,23,9,1,0,2415.0
+2024-03-05,Email,Desktop,Email / Desktop,116,60,26,5,2,2880.0
+2024-03-05,Email,Mobile,Email / Mobile,165,67,23,6,3,3216.0
+2024-03-05,Email,Tablet,Email / Tablet,30,13,4,1,0,624.0
+2024-03-05,Display,Desktop,Display / Desktop,158,49,13,1,0,3332.0
+2024-03-05,Display,Mobile,Display / Mobile,313,69,19,2,1,4692.0
+2024-03-05,Display,Tablet,Display / Tablet,66,13,4,0,0,884.0
+2024-03-06,Paid Search,Desktop,Paid Search / Desktop,421,188,87,11,4,31960.0
+2024-03-06,Paid Search,Mobile,Paid Search / Mobile,439,135,49,10,4,22950.0
+2024-03-06,Paid Search,Tablet,Paid Search / Tablet,99,29,14,2,1,4930.0
+2024-03-06,Organic Search,Desktop,Organic Search / Desktop,249,81,25,4,1,2835.0
+2024-03-06,Organic Search,Mobile,Organic Search / Mobile,425,116,38,5,2,4060.0
+2024-03-06,Organic Search,Tablet,Organic Search / Tablet,61,20,8,1,0,700.0
+2024-03-06,Paid Social,Desktop,Paid Social / Desktop,295,110,39,3,1,11550.0
+2024-03-06,Paid Social,Mobile,Paid Social / Mobile,374,86,31,2,1,9030.0
+2024-03-06,Paid Social,Tablet,Paid Social / Tablet,106,27,8,1,0,2835.0
+2024-03-06,Email,Desktop,Email / Desktop,132,77,33,8,4,3696.0
+2024-03-06,Email,Mobile,Email / Mobile,132,55,20,4,2,2640.0
+2024-03-06,Email,Tablet,Email / Tablet,29,13,5,1,0,624.0
+2024-03-06,Display,Desktop,Display / Desktop,249,60,15,1,0,4080.0
+2024-03-06,Display,Mobile,Display / Mobile,377,69,21,2,1,4692.0
+2024-03-06,Display,Tablet,Display / Tablet,50,11,3,0,0,748.0
+2024-03-07,Paid Search,Desktop,Paid Search / Desktop,405,184,69,11,5,31280.0
+2024-03-07,Paid Search,Mobile,Paid Search / Mobile,463,121,49,8,3,20570.0
+2024-03-07,Paid Search,Tablet,Paid Search / Tablet,91,32,15,3,1,5440.0
+2024-03-07,Organic Search,Desktop,Organic Search / Desktop,228,75,31,3,1,2625.0
+2024-03-07,Organic Search,Mobile,Organic Search / Mobile,436,102,32,4,2,3570.0
+2024-03-07,Organic Search,Tablet,Organic Search / Tablet,55,17,8,1,0,595.0
+2024-03-07,Paid Social,Desktop,Paid Social / Desktop,381,117,37,3,1,12285.0
+2024-03-07,Paid Social,Mobile,Paid Social / Mobile,507,122,39,3,1,12810.0
+2024-03-07,Paid Social,Tablet,Paid Social / Tablet,101,29,9,1,0,3045.0
+2024-03-07,Email,Desktop,Email / Desktop,117,59,25,5,2,2832.0
+2024-03-07,Email,Mobile,Email / Mobile,143,57,18,3,2,2736.0
+2024-03-07,Email,Tablet,Email / Tablet,23,11,3,1,0,528.0
+2024-03-07,Display,Desktop,Display / Desktop,261,73,23,2,1,4964.0
+2024-03-07,Display,Mobile,Display / Mobile,354,68,20,2,1,4624.0
+2024-03-07,Display,Tablet,Display / Tablet,51,12,3,0,0,816.0
+2024-03-08,Paid Search,Desktop,Paid Search / Desktop,363,148,63,12,4,25160.0
+2024-03-08,Paid Search,Mobile,Paid Search / Mobile,581,168,76,12,4,28560.0
+2024-03-08,Paid Search,Tablet,Paid Search / Tablet,87,26,10,2,1,4420.0
+2024-03-08,Organic Search,Desktop,Organic Search / Desktop,230,97,34,6,2,3395.0
+2024-03-08,Organic Search,Mobile,Organic Search / Mobile,331,86,37,6,2,3010.0
+2024-03-08,Organic Search,Tablet,Organic Search / Tablet,74,24,10,2,1,840.0
+2024-03-08,Paid Social,Desktop,Paid Social / Desktop,350,121,45,5,2,12705.0
+2024-03-08,Paid Social,Mobile,Paid Social / Mobile,545,138,56,6,2,14490.0
+2024-03-08,Paid Social,Tablet,Paid Social / Tablet,98,25,9,1,0,2625.0
+2024-03-08,Email,Desktop,Email / Desktop,84,48,21,3,1,2304.0
+2024-03-08,Email,Mobile,Email / Mobile,142,50,16,4,2,2400.0
+2024-03-08,Email,Tablet,Email / Tablet,26,12,5,1,0,576.0
+2024-03-08,Display,Desktop,Display / Desktop,212,63,17,2,1,4284.0
+2024-03-08,Display,Mobile,Display / Mobile,334,68,20,1,0,4624.0
+2024-03-08,Display,Tablet,Display / Tablet,52,11,3,0,0,748.0
+2024-03-09,Paid Search,Desktop,Paid Search / Desktop,363,142,61,8,3,24140.0
+2024-03-09,Paid Search,Mobile,Paid Search / Mobile,653,174,83,15,6,29580.0
+2024-03-09,Paid Search,Tablet,Paid Search / Tablet,105,35,17,3,1,5950.0
+2024-03-09,Organic Search,Desktop,Organic Search / Desktop,210,75,31,5,2,2625.0
+2024-03-09,Organic Search,Mobile,Organic Search / Mobile,444,120,50,6,3,4200.0
+2024-03-09,Organic Search,Tablet,Organic Search / Tablet,57,15,5,1,0,525.0
+2024-03-09,Paid Social,Desktop,Paid Social / Desktop,325,117,44,4,2,12285.0
+2024-03-09,Paid Social,Mobile,Paid Social / Mobile,520,140,50,6,2,14700.0
+2024-03-09,Paid Social,Tablet,Paid Social / Tablet,83,21,8,1,0,2205.0
+2024-03-09,Email,Desktop,Email / Desktop,134,65,24,6,2,3120.0
+2024-03-09,Email,Mobile,Email / Mobile,130,44,15,4,2,2112.0
+2024-03-09,Email,Tablet,Email / Tablet,32,13,6,1,0,624.0
+2024-03-09,Display,Desktop,Display / Desktop,169,51,17,2,1,3468.0
+2024-03-09,Display,Mobile,Display / Mobile,346,60,16,2,1,4080.0
+2024-03-09,Display,Tablet,Display / Tablet,70,14,4,0,0,952.0
+2024-03-10,Paid Search,Desktop,Paid Search / Desktop,452,197,78,10,3,33490.0
+2024-03-10,Paid Search,Mobile,Paid Search / Mobile,629,159,65,8,3,27030.0
+2024-03-10,Paid Search,Tablet,Paid Search / Tablet,93,34,15,3,1,5780.0
+2024-03-10,Organic Search,Desktop,Organic Search / Desktop,227,78,26,5,2,2730.0
+2024-03-10,Organic Search,Mobile,Organic Search / Mobile,393,101,37,4,1,3535.0
+2024-03-10,Organic Search,Tablet,Organic Search / Tablet,71,18,6,1,0,630.0
+2024-03-10,Paid Social,Desktop,Paid Social / Desktop,275,98,38,4,1,10290.0
+2024-03-10,Paid Social,Mobile,Paid Social / Mobile,371,87,34,3,1,9135.0
+2024-03-10,Paid Social,Tablet,Paid Social / Tablet,105,31,11,1,0,3255.0
+2024-03-10,Email,Desktop,Email / Desktop,92,55,18,3,1,2640.0
+2024-03-10,Email,Mobile,Email / Mobile,152,62,26,5,2,2976.0
+2024-03-10,Email,Tablet,Email / Tablet,28,11,4,1,0,528.0
+2024-03-10,Display,Desktop,Display / Desktop,247,65,16,1,0,4420.0
+2024-03-10,Display,Mobile,Display / Mobile,379,71,22,2,1,4828.0
+2024-03-10,Display,Tablet,Display / Tablet,55,13,4,0,0,884.0
+2024-03-11,Paid Search,Desktop,Paid Search / Desktop,303,110,54,11,4,18700.0
+2024-03-11,Paid Search,Mobile,Paid Search / Mobile,596,186,93,15,5,31620.0
+2024-03-11,Paid Search,Tablet,Paid Search / Tablet,108,36,18,2,1,6120.0
+2024-03-11,Organic Search,Desktop,Organic Search / Desktop,198,68,31,5,2,2380.0
+2024-03-11,Organic Search,Mobile,Organic Search / Mobile,415,97,32,5,2,3395.0
+2024-03-11,Organic Search,Tablet,Organic Search / Tablet,66,20,8,1,0,700.0
+2024-03-11,Paid Social,Desktop,Paid Social / Desktop,288,110,38,5,2,11550.0
+2024-03-11,Paid Social,Mobile,Paid Social / Mobile,512,138,45,5,2,14490.0
+2024-03-11,Paid Social,Tablet,Paid Social / Tablet,101,28,11,1,0,2940.0
+2024-03-11,Email,Desktop,Email / Desktop,87,50,20,5,2,2400.0
+2024-03-11,Email,Mobile,Email / Mobile,156,62,21,5,2,2976.0
+2024-03-11,Email,Tablet,Email / Tablet,29,12,5,1,0,576.0
+2024-03-11,Display,Desktop,Display / Desktop,161,45,12,1,0,3060.0
+2024-03-11,Display,Mobile,Display / Mobile,299,53,17,1,0,3604.0
+2024-03-11,Display,Tablet,Display / Tablet,50,12,4,0,0,816.0
+2024-03-12,Paid Search,Desktop,Paid Search / Desktop,324,134,56,9,3,22780.0
+2024-03-12,Paid Search,Mobile,Paid Search / Mobile,540,167,57,12,6,28390.0
+2024-03-12,Paid Search,Tablet,Paid Search / Tablet,85,30,12,2,1,5100.0
+2024-03-12,Organic Search,Desktop,Organic Search / Desktop,220,84,34,4,1,2940.0
+2024-03-12,Organic Search,Mobile,Organic Search / Mobile,483,121,37,6,3,4235.0
+2024-03-12,Organic Search,Tablet,Organic Search / Tablet,84,22,7,1,0,770.0
+2024-03-12,Paid Social,Desktop,Paid Social / Desktop,318,97,36,3,1,10185.0
+2024-03-12,Paid Social,Mobile,Paid Social / Mobile,353,80,32,3,1,8400.0
+2024-03-12,Paid Social,Tablet,Paid Social / Tablet,98,30,8,1,0,3150.0
+2024-03-12,Email,Desktop,Email / Desktop,83,47,17,3,1,2256.0
+2024-03-12,Email,Mobile,Email / Mobile,125,49,21,5,2,2352.0
+2024-03-12,Email,Tablet,Email / Tablet,38,16,7,1,0,768.0
+2024-03-12,Display,Desktop,Display / Desktop,206,54,15,1,0,3672.0
+2024-03-12,Display,Mobile,Display / Mobile,269,57,16,1,0,3876.0
+2024-03-12,Display,Tablet,Display / Tablet,73,16,5,0,0,1088.0
+2024-03-13,Paid Search,Desktop,Paid Search / Desktop,338,121,46,7,3,20570.0
+2024-03-13,Paid Search,Mobile,Paid Search / Mobile,680,183,90,16,8,31110.0
+2024-03-13,Paid Search,Tablet,Paid Search / Tablet,85,26,10,2,1,4420.0
+2024-03-13,Organic Search,Desktop,Organic Search / Desktop,249,89,39,5,2,3115.0
+2024-03-13,Organic Search,Mobile,Organic Search / Mobile,336,97,37,5,2,3395.0
+2024-03-13,Organic Search,Tablet,Organic Search / Tablet,78,23,8,1,0,805.0
+2024-03-13,Paid Social,Desktop,Paid Social / Desktop,331,126,45,4,1,13230.0
+2024-03-13,Paid Social,Mobile,Paid Social / Mobile,479,118,42,4,2,12390.0
+2024-03-13,Paid Social,Tablet,Paid Social / Tablet,101,25,7,1,0,2625.0
+2024-03-13,Email,Desktop,Email / Desktop,113,56,25,4,1,2688.0
+2024-03-13,Email,Mobile,Email / Mobile,143,47,19,4,2,2256.0
+2024-03-13,Email,Tablet,Email / Tablet,24,11,4,1,1,528.0
+2024-03-13,Display,Desktop,Display / Desktop,246,75,19,2,1,5100.0
+2024-03-13,Display,Mobile,Display / Mobile,351,66,17,1,0,4488.0
+2024-03-13,Display,Tablet,Display / Tablet,73,18,6,0,0,1224.0
+2024-03-14,Paid Search,Desktop,Paid Search / Desktop,287,112,50,7,2,19040.0
+2024-03-14,Paid Search,Mobile,Paid Search / Mobile,551,153,65,12,5,26010.0
+2024-03-14,Paid Search,Tablet,Paid Search / Tablet,111,40,14,2,1,6800.0
+2024-03-14,Organic Search,Desktop,Organic Search / Desktop,197,74,32,4,1,2590.0
+2024-03-14,Organic Search,Mobile,Organic Search / Mobile,316,85,38,4,1,2975.0
+2024-03-14,Organic Search,Tablet,Organic Search / Tablet,80,21,8,1,0,735.0
+2024-03-14,Paid Social,Desktop,Paid Social / Desktop,243,76,24,2,1,7980.0
+2024-03-14,Paid Social,Mobile,Paid Social / Mobile,528,118,35,4,1,12390.0
+2024-03-14,Paid Social,Tablet,Paid Social / Tablet,103,26,8,1,0,2730.0
+2024-03-14,Email,Desktop,Email / Desktop,83,39,17,3,1,1872.0
+2024-03-14,Email,Mobile,Email / Mobile,205,77,32,6,2,3696.0
+2024-03-14,Email,Tablet,Email / Tablet,29,12,4,1,0,576.0
+2024-03-14,Display,Desktop,Display / Desktop,253,61,20,2,1,4148.0
+2024-03-14,Display,Mobile,Display / Mobile,308,54,19,2,1,3672.0
+2024-03-14,Display,Tablet,Display / Tablet,61,13,3,0,0,884.0
+2024-03-15,Paid Search,Desktop,Paid Search / Desktop,427,164,73,13,6,27880.0
+2024-03-15,Paid Search,Mobile,Paid Search / Mobile,601,152,64,9,4,25840.0
+2024-03-15,Paid Search,Tablet,Paid Search / Tablet,92,29,12,2,1,4930.0
+2024-03-15,Organic Search,Desktop,Organic Search / Desktop,289,106,32,5,2,3710.0
+2024-03-15,Organic Search,Mobile,Organic Search / Mobile,357,85,28,3,1,2975.0
+2024-03-15,Organic Search,Tablet,Organic Search / Tablet,59,17,7,1,0,595.0
+2024-03-15,Paid Social,Desktop,Paid Social / Desktop,344,127,47,5,2,13335.0
+2024-03-15,Paid Social,Mobile,Paid Social / Mobile,575,126,48,4,1,13230.0
+2024-03-15,Paid Social,Tablet,Paid Social / Tablet,86,20,8,1,0,2100.0
+2024-03-15,Email,Desktop,Email / Desktop,106,58,19,4,2,2784.0
+2024-03-15,Email,Mobile,Email / Mobile,145,59,25,4,1,2832.0
+2024-03-15,Email,Tablet,Email / Tablet,35,15,6,1,0,720.0
+2024-03-15,Display,Desktop,Display / Desktop,235,67,21,2,1,4556.0
+2024-03-15,Display,Mobile,Display / Mobile,341,62,15,1,0,4216.0
+2024-03-15,Display,Tablet,Display / Tablet,60,12,3,0,0,816.0
+2024-03-16,Paid Search,Desktop,Paid Search / Desktop,331,146,53,7,3,24820.0
+2024-03-16,Paid Search,Mobile,Paid Search / Mobile,560,167,62,8,3,28390.0
+2024-03-16,Paid Search,Tablet,Paid Search / Tablet,87,29,14,2,1,4930.0
+2024-03-16,Organic Search,Desktop,Organic Search / Desktop,229,84,33,4,1,2940.0
+2024-03-16,Organic Search,Mobile,Organic Search / Mobile,400,111,34,4,2,3885.0
+2024-03-16,Organic Search,Tablet,Organic Search / Tablet,57,17,7,1,0,595.0
+2024-03-16,Paid Social,Desktop,Paid Social / Desktop,299,111,42,5,2,11655.0
+2024-03-16,Paid Social,Mobile,Paid Social / Mobile,426,112,32,3,1,11760.0
+2024-03-16,Paid Social,Tablet,Paid Social / Tablet,101,26,10,1,0,2730.0
+2024-03-16,Email,Desktop,Email / Desktop,101,58,26,6,2,2784.0
+2024-03-16,Email,Mobile,Email / Mobile,157,65,22,4,2,3120.0
+2024-03-16,Email,Tablet,Email / Tablet,31,13,4,1,1,624.0
+2024-03-16,Display,Desktop,Display / Desktop,227,62,17,2,1,4216.0
+2024-03-16,Display,Mobile,Display / Mobile,246,46,16,1,0,3128.0
+2024-03-16,Display,Tablet,Display / Tablet,54,11,4,0,0,748.0
+2024-03-17,Paid Search,Desktop,Paid Search / Desktop,287,110,37,6,2,18700.0
+2024-03-17,Paid Search,Mobile,Paid Search / Mobile,557,169,66,14,6,28730.0
+2024-03-17,Paid Search,Tablet,Paid Search / Tablet,128,45,20,3,1,7650.0
+2024-03-17,Organic Search,Desktop,Organic Search / Desktop,208,69,31,4,1,2415.0
+2024-03-17,Organic Search,Mobile,Organic Search / Mobile,357,85,35,4,2,2975.0
+2024-03-17,Organic Search,Tablet,Organic Search / Tablet,77,20,9,2,1,700.0
+2024-03-17,Paid Social,Desktop,Paid Social / Desktop,257,78,27,2,1,8190.0
+2024-03-17,Paid Social,Mobile,Paid Social / Mobile,514,109,33,3,1,11445.0
+2024-03-17,Paid Social,Tablet,Paid Social / Tablet,101,25,7,1,0,2625.0
+2024-03-17,Email,Desktop,Email / Desktop,100,53,22,4,2,2544.0
+2024-03-17,Email,Mobile,Email / Mobile,185,64,24,5,3,3072.0
+2024-03-17,Email,Tablet,Email / Tablet,26,11,5,1,0,528.0
+2024-03-17,Display,Desktop,Display / Desktop,187,48,12,1,0,3264.0
+2024-03-17,Display,Mobile,Display / Mobile,374,71,24,3,1,4828.0
+2024-03-17,Display,Tablet,Display / Tablet,45,10,2,0,0,680.0
+2024-03-18,Paid Search,Desktop,Paid Search / Desktop,346,133,46,9,4,22610.0
+2024-03-18,Paid Search,Mobile,Paid Search / Mobile,565,145,58,11,4,24650.0
+2024-03-18,Paid Search,Tablet,Paid Search / Tablet,125,39,15,2,1,6630.0
+2024-03-18,Organic Search,Desktop,Organic Search / Desktop,270,89,34,5,2,3115.0
+2024-03-18,Organic Search,Mobile,Organic Search / Mobile,403,118,44,7,2,4130.0
+2024-03-18,Organic Search,Tablet,Organic Search / Tablet,85,25,9,1,0,875.0
+2024-03-18,Paid Social,Desktop,Paid Social / Desktop,253,93,30,3,1,9765.0
+2024-03-18,Paid Social,Mobile,Paid Social / Mobile,414,97,28,4,2,10185.0
+2024-03-18,Paid Social,Tablet,Paid Social / Tablet,86,25,9,1,0,2625.0
+2024-03-18,Email,Desktop,Email / Desktop,110,55,24,6,2,2640.0
+2024-03-18,Email,Mobile,Email / Mobile,180,68,24,6,2,3264.0
+2024-03-18,Email,Tablet,Email / Tablet,34,14,5,1,0,672.0
+2024-03-18,Display,Desktop,Display / Desktop,192,58,18,1,0,3944.0
+2024-03-18,Display,Mobile,Display / Mobile,321,56,19,2,1,3808.0
+2024-03-18,Display,Tablet,Display / Tablet,55,12,4,0,0,816.0
+2024-03-19,Paid Search,Desktop,Paid Search / Desktop,435,192,79,13,5,32640.0
+2024-03-19,Paid Search,Mobile,Paid Search / Mobile,435,133,48,7,3,22610.0
+2024-03-19,Paid Search,Tablet,Paid Search / Tablet,126,37,15,3,1,6290.0
+2024-03-19,Organic Search,Desktop,Organic Search / Desktop,257,98,44,5,2,3430.0
+2024-03-19,Organic Search,Mobile,Organic Search / Mobile,453,107,37,4,2,3745.0
+2024-03-19,Organic Search,Tablet,Organic Search / Tablet,61,17,5,1,0,595.0
+2024-03-19,Paid Social,Desktop,Paid Social / Desktop,359,119,48,5,2,12495.0
+2024-03-19,Paid Social,Mobile,Paid Social / Mobile,506,111,31,3,1,11655.0
+2024-03-19,Paid Social,Tablet,Paid Social / Tablet,99,24,8,1,0,2520.0
+2024-03-19,Email,Desktop,Email / Desktop,132,78,26,4,2,3744.0
+2024-03-19,Email,Mobile,Email / Mobile,189,77,25,6,2,3696.0
+2024-03-19,Email,Tablet,Email / Tablet,31,14,6,2,1,672.0
+2024-03-19,Display,Desktop,Display / Desktop,206,62,19,1,0,4216.0
+2024-03-19,Display,Mobile,Display / Mobile,295,50,14,1,0,3400.0
+2024-03-19,Display,Tablet,Display / Tablet,50,9,3,0,0,612.0
+2024-03-20,Paid Search,Desktop,Paid Search / Desktop,468,192,89,12,5,32640.0
+2024-03-20,Paid Search,Mobile,Paid Search / Mobile,647,200,86,17,8,34000.0
+2024-03-20,Paid Search,Tablet,Paid Search / Tablet,109,35,14,3,1,5950.0
+2024-03-20,Organic Search,Desktop,Organic Search / Desktop,265,110,46,6,2,3850.0
+2024-03-20,Organic Search,Mobile,Organic Search / Mobile,442,121,55,7,3,4235.0
+2024-03-20,Organic Search,Tablet,Organic Search / Tablet,79,26,10,2,1,910.0
+2024-03-20,Paid Social,Desktop,Paid Social / Desktop,371,115,39,3,1,12075.0
+2024-03-20,Paid Social,Mobile,Paid Social / Mobile,419,104,37,3,1,10920.0
+2024-03-20,Paid Social,Tablet,Paid Social / Tablet,98,29,10,1,0,3045.0
+2024-03-20,Email,Desktop,Email / Desktop,102,51,22,4,1,2448.0
+2024-03-20,Email,Mobile,Email / Mobile,141,56,24,4,2,2688.0
+2024-03-20,Email,Tablet,Email / Tablet,30,11,4,1,0,528.0
+2024-03-20,Display,Desktop,Display / Desktop,250,73,26,3,1,4964.0
+2024-03-20,Display,Mobile,Display / Mobile,341,69,18,2,1,4692.0
+2024-03-20,Display,Tablet,Display / Tablet,67,15,4,0,0,1020.0
+2024-03-21,Paid Search,Desktop,Paid Search / Desktop,414,188,86,11,5,31960.0
+2024-03-21,Paid Search,Mobile,Paid Search / Mobile,556,153,61,12,4,26010.0
+2024-03-21,Paid Search,Tablet,Paid Search / Tablet,94,31,15,3,1,5270.0
+2024-03-21,Organic Search,Desktop,Organic Search / Desktop,294,118,40,6,2,4130.0
+2024-03-21,Organic Search,Mobile,Organic Search / Mobile,335,88,32,5,2,3080.0
+2024-03-21,Organic Search,Tablet,Organic Search / Tablet,60,19,6,1,0,665.0
+2024-03-21,Paid Social,Desktop,Paid Social / Desktop,267,83,28,3,1,8715.0
+2024-03-21,Paid Social,Mobile,Paid Social / Mobile,362,94,36,4,1,9870.0
+2024-03-21,Paid Social,Tablet,Paid Social / Tablet,74,19,8,1,0,1995.0
+2024-03-21,Email,Desktop,Email / Desktop,112,55,18,4,1,2640.0
+2024-03-21,Email,Mobile,Email / Mobile,152,56,18,3,2,2688.0
+2024-03-21,Email,Tablet,Email / Tablet,26,10,3,1,0,480.0
+2024-03-21,Display,Desktop,Display / Desktop,219,60,19,1,0,4080.0
+2024-03-21,Display,Mobile,Display / Mobile,324,63,18,2,1,4284.0
+2024-03-21,Display,Tablet,Display / Tablet,63,13,3,0,0,884.0
+2024-03-22,Paid Search,Desktop,Paid Search / Desktop,445,158,78,16,8,26860.0
+2024-03-22,Paid Search,Mobile,Paid Search / Mobile,578,146,71,12,4,24820.0
+2024-03-22,Paid Search,Tablet,Paid Search / Tablet,80,25,10,2,1,4250.0
+2024-03-22,Organic Search,Desktop,Organic Search / Desktop,204,68,30,5,2,2380.0
+2024-03-22,Organic Search,Mobile,Organic Search / Mobile,350,84,29,4,2,2940.0
+2024-03-22,Organic Search,Tablet,Organic Search / Tablet,76,20,8,1,0,700.0
+2024-03-22,Paid Social,Desktop,Paid Social / Desktop,237,89,28,2,1,9345.0
+2024-03-22,Paid Social,Mobile,Paid Social / Mobile,474,115,39,5,2,12075.0
+2024-03-22,Paid Social,Tablet,Paid Social / Tablet,66,18,6,0,0,1890.0
+2024-03-22,Email,Desktop,Email / Desktop,118,66,23,5,2,3168.0
+2024-03-22,Email,Mobile,Email / Mobile,199,83,30,7,2,3984.0
+2024-03-22,Email,Tablet,Email / Tablet,37,14,4,1,0,672.0
+2024-03-22,Display,Desktop,Display / Desktop,161,40,11,1,0,2720.0
+2024-03-22,Display,Mobile,Display / Mobile,336,72,26,3,1,4896.0
+2024-03-22,Display,Tablet,Display / Tablet,60,14,4,0,0,952.0
+2024-03-23,Paid Search,Desktop,Paid Search / Desktop,397,171,73,11,4,29070.0
+2024-03-23,Paid Search,Mobile,Paid Search / Mobile,526,155,73,12,4,26350.0
+2024-03-23,Paid Search,Tablet,Paid Search / Tablet,89,26,10,2,1,4420.0
+2024-03-23,Organic Search,Desktop,Organic Search / Desktop,296,116,37,6,2,4060.0
+2024-03-23,Organic Search,Mobile,Organic Search / Mobile,317,90,33,6,2,3150.0
+2024-03-23,Organic Search,Tablet,Organic Search / Tablet,84,28,12,2,1,980.0
+2024-03-23,Paid Social,Desktop,Paid Social / Desktop,341,119,37,4,1,12495.0
+2024-03-23,Paid Social,Mobile,Paid Social / Mobile,543,142,44,6,2,14910.0
+2024-03-23,Paid Social,Tablet,Paid Social / Tablet,86,25,10,1,0,2625.0
+2024-03-23,Email,Desktop,Email / Desktop,132,64,25,4,2,3072.0
+2024-03-23,Email,Mobile,Email / Mobile,202,83,28,5,3,3984.0
+2024-03-23,Email,Tablet,Email / Tablet,35,14,6,1,1,672.0
+2024-03-23,Display,Desktop,Display / Desktop,192,59,15,1,0,4012.0
+2024-03-23,Display,Mobile,Display / Mobile,376,76,25,3,1,5168.0
+2024-03-23,Display,Tablet,Display / Tablet,70,14,4,0,0,952.0
+2024-03-24,Paid Search,Desktop,Paid Search / Desktop,449,177,62,8,3,30090.0
+2024-03-24,Paid Search,Mobile,Paid Search / Mobile,497,140,60,9,3,23800.0
+2024-03-24,Paid Search,Tablet,Paid Search / Tablet,133,47,23,4,2,7990.0
+2024-03-24,Organic Search,Desktop,Organic Search / Desktop,274,103,35,6,2,3605.0
+2024-03-24,Organic Search,Mobile,Organic Search / Mobile,417,107,34,5,2,3745.0
+2024-03-24,Organic Search,Tablet,Organic Search / Tablet,81,25,8,1,0,875.0
+2024-03-24,Paid Social,Desktop,Paid Social / Desktop,276,94,27,2,1,9870.0
+2024-03-24,Paid Social,Mobile,Paid Social / Mobile,527,128,47,6,2,13440.0
+2024-03-24,Paid Social,Tablet,Paid Social / Tablet,71,21,8,1,0,2205.0
+2024-03-24,Email,Desktop,Email / Desktop,106,50,18,3,1,2400.0
+2024-03-24,Email,Mobile,Email / Mobile,196,71,31,7,4,3408.0
+2024-03-24,Email,Tablet,Email / Tablet,25,10,5,1,0,480.0
+2024-03-24,Display,Desktop,Display / Desktop,190,53,14,2,1,3604.0
+2024-03-24,Display,Mobile,Display / Mobile,326,62,16,2,1,4216.0
+2024-03-24,Display,Tablet,Display / Tablet,60,15,4,0,0,1020.0
+2024-03-25,Paid Search,Desktop,Paid Search / Desktop,363,157,56,12,6,26690.0
+2024-03-25,Paid Search,Mobile,Paid Search / Mobile,478,150,68,11,4,25500.0
+2024-03-25,Paid Search,Tablet,Paid Search / Tablet,131,39,14,2,1,6630.0
+2024-03-25,Organic Search,Desktop,Organic Search / Desktop,198,76,28,4,1,2660.0
+2024-03-25,Organic Search,Mobile,Organic Search / Mobile,453,115,42,5,2,4025.0
+2024-03-25,Organic Search,Tablet,Organic Search / Tablet,74,23,10,1,0,805.0
+2024-03-25,Paid Social,Desktop,Paid Social / Desktop,300,92,26,2,1,9660.0
+2024-03-25,Paid Social,Mobile,Paid Social / Mobile,525,142,53,4,1,14910.0
+2024-03-25,Paid Social,Tablet,Paid Social / Tablet,75,20,6,1,0,2100.0
+2024-03-25,Email,Desktop,Email / Desktop,130,72,28,6,3,3456.0
+2024-03-25,Email,Mobile,Email / Mobile,204,80,35,8,4,3840.0
+2024-03-25,Email,Tablet,Email / Tablet,29,13,5,1,0,624.0
+2024-03-25,Display,Desktop,Display / Desktop,183,48,17,1,0,3264.0
+2024-03-25,Display,Mobile,Display / Mobile,372,73,19,2,1,4964.0
+2024-03-25,Display,Tablet,Display / Tablet,48,11,3,0,0,748.0
+2024-03-26,Paid Search,Desktop,Paid Search / Desktop,448,183,89,15,6,31110.0
+2024-03-26,Paid Search,Mobile,Paid Search / Mobile,611,168,71,11,4,28560.0
+2024-03-26,Paid Search,Tablet,Paid Search / Tablet,112,37,18,3,1,6290.0
+2024-03-26,Organic Search,Desktop,Organic Search / Desktop,231,91,41,6,3,3185.0
+2024-03-26,Organic Search,Mobile,Organic Search / Mobile,335,82,27,3,1,2870.0
+2024-03-26,Organic Search,Tablet,Organic Search / Tablet,75,20,8,1,0,700.0
+2024-03-26,Paid Social,Desktop,Paid Social / Desktop,382,137,53,4,1,14385.0
+2024-03-26,Paid Social,Mobile,Paid Social / Mobile,573,136,42,4,1,14280.0
+2024-03-26,Paid Social,Tablet,Paid Social / Tablet,67,19,6,1,0,1995.0
+2024-03-26,Email,Desktop,Email / Desktop,106,55,22,4,2,2640.0
+2024-03-26,Email,Mobile,Email / Mobile,189,78,33,8,3,3744.0
+2024-03-26,Email,Tablet,Email / Tablet,26,11,4,1,0,528.0
+2024-03-26,Display,Desktop,Display / Desktop,197,49,14,1,0,3332.0
+2024-03-26,Display,Mobile,Display / Mobile,375,74,23,2,1,5032.0
+2024-03-26,Display,Tablet,Display / Tablet,73,16,5,0,0,1088.0
+2024-03-27,Paid Search,Desktop,Paid Search / Desktop,360,152,53,10,3,25840.0
+2024-03-27,Paid Search,Mobile,Paid Search / Mobile,593,172,67,13,5,29240.0
+2024-03-27,Paid Search,Tablet,Paid Search / Tablet,83,26,10,2,1,4420.0
+2024-03-27,Organic Search,Desktop,Organic Search / Desktop,239,81,27,4,2,2835.0
+2024-03-27,Organic Search,Mobile,Organic Search / Mobile,350,92,34,4,1,3220.0
+2024-03-27,Organic Search,Tablet,Organic Search / Tablet,65,21,7,1,0,735.0
+2024-03-27,Paid Social,Desktop,Paid Social / Desktop,310,118,35,3,1,12390.0
+2024-03-27,Paid Social,Mobile,Paid Social / Mobile,580,149,46,6,3,15645.0
+2024-03-27,Paid Social,Tablet,Paid Social / Tablet,77,19,6,1,0,1995.0
+2024-03-27,Email,Desktop,Email / Desktop,95,49,21,4,1,2352.0
+2024-03-27,Email,Mobile,Email / Mobile,197,76,30,5,2,3648.0
+2024-03-27,Email,Tablet,Email / Tablet,38,17,7,2,1,816.0
+2024-03-27,Display,Desktop,Display / Desktop,254,65,22,2,1,4420.0
+2024-03-27,Display,Mobile,Display / Mobile,377,79,21,2,0,5372.0
+2024-03-27,Display,Tablet,Display / Tablet,68,14,5,0,0,952.0
+2024-03-28,Paid Search,Desktop,Paid Search / Desktop,443,176,86,15,4,29920.0
+2024-03-28,Paid Search,Mobile,Paid Search / Mobile,639,197,72,14,6,33490.0
+2024-03-28,Paid Search,Tablet,Paid Search / Tablet,82,28,11,2,1,4760.0
+2024-03-28,Organic Search,Desktop,Organic Search / Desktop,200,67,26,4,1,2345.0
+2024-03-28,Organic Search,Mobile,Organic Search / Mobile,404,101,35,4,1,3535.0
+2024-03-28,Organic Search,Tablet,Organic Search / Tablet,84,24,9,1,0,840.0
+2024-03-28,Paid Social,Desktop,Paid Social / Desktop,304,95,29,3,1,9975.0
+2024-03-28,Paid Social,Mobile,Paid Social / Mobile,396,84,25,3,1,8820.0
+2024-03-28,Paid Social,Tablet,Paid Social / Tablet,89,23,7,1,0,2415.0
+2024-03-28,Email,Desktop,Email / Desktop,114,64,28,6,2,3072.0
+2024-03-28,Email,Mobile,Email / Mobile,183,70,21,5,2,3360.0
+2024-03-28,Email,Tablet,Email / Tablet,28,13,5,1,0,624.0
+2024-03-28,Display,Desktop,Display / Desktop,257,76,19,2,1,5168.0
+2024-03-28,Display,Mobile,Display / Mobile,337,74,19,1,0,5032.0
+2024-03-28,Display,Tablet,Display / Tablet,52,11,4,0,0,748.0
+2024-03-29,Paid Search,Desktop,Paid Search / Desktop,347,145,64,12,5,24650.0
+2024-03-29,Paid Search,Mobile,Paid Search / Mobile,460,120,58,11,5,20400.0
+2024-03-29,Paid Search,Tablet,Paid Search / Tablet,86,24,8,1,0,4080.0
+2024-03-29,Organic Search,Desktop,Organic Search / Desktop,222,87,39,6,3,3045.0
+2024-03-29,Organic Search,Mobile,Organic Search / Mobile,459,127,41,7,2,4445.0
+2024-03-29,Organic Search,Tablet,Organic Search / Tablet,77,22,7,1,0,770.0
+2024-03-29,Paid Social,Desktop,Paid Social / Desktop,377,134,48,5,2,14070.0
+2024-03-29,Paid Social,Mobile,Paid Social / Mobile,371,97,35,4,2,10185.0
+2024-03-29,Paid Social,Tablet,Paid Social / Tablet,69,17,5,0,0,1785.0
+2024-03-29,Email,Desktop,Email / Desktop,98,47,18,5,2,2256.0
+2024-03-29,Email,Mobile,Email / Mobile,199,71,23,5,2,3408.0
+2024-03-29,Email,Tablet,Email / Tablet,36,17,6,1,0,816.0
+2024-03-29,Display,Desktop,Display / Desktop,254,74,18,1,0,5032.0
+2024-03-29,Display,Mobile,Display / Mobile,373,75,18,1,0,5100.0
+2024-03-29,Display,Tablet,Display / Tablet,45,9,3,0,0,612.0
+2024-03-30,Paid Search,Desktop,Paid Search / Desktop,456,186,70,9,4,31620.0
+2024-03-30,Paid Search,Mobile,Paid Search / Mobile,551,178,78,12,4,30260.0
+2024-03-30,Paid Search,Tablet,Paid Search / Tablet,130,45,18,3,1,7650.0
+2024-03-30,Organic Search,Desktop,Organic Search / Desktop,239,95,32,5,2,3325.0
+2024-03-30,Organic Search,Mobile,Organic Search / Mobile,367,98,41,7,2,3430.0
+2024-03-30,Organic Search,Tablet,Organic Search / Tablet,56,17,8,1,0,595.0
+2024-03-30,Paid Social,Desktop,Paid Social / Desktop,291,94,36,3,1,9870.0
+2024-03-30,Paid Social,Mobile,Paid Social / Mobile,456,100,33,4,1,10500.0
+2024-03-30,Paid Social,Tablet,Paid Social / Tablet,105,26,9,1,0,2730.0
+2024-03-30,Email,Desktop,Email / Desktop,89,47,16,4,2,2256.0
+2024-03-30,Email,Mobile,Email / Mobile,125,51,19,3,1,2448.0
+2024-03-30,Email,Tablet,Email / Tablet,31,11,5,1,0,528.0
+2024-03-30,Display,Desktop,Display / Desktop,192,60,21,2,1,4080.0
+2024-03-30,Display,Mobile,Display / Mobile,289,52,13,1,0,3536.0
+2024-03-30,Display,Tablet,Display / Tablet,56,11,3,0,0,748.0
+2024-03-31,Paid Search,Desktop,Paid Search / Desktop,320,146,70,10,3,24820.0
+2024-03-31,Paid Search,Mobile,Paid Search / Mobile,543,176,70,9,3,29920.0
+2024-03-31,Paid Search,Tablet,Paid Search / Tablet,98,33,14,2,1,5610.0
+2024-03-31,Organic Search,Desktop,Organic Search / Desktop,210,70,28,4,2,2450.0
+2024-03-31,Organic Search,Mobile,Organic Search / Mobile,440,122,52,9,4,4270.0
+2024-03-31,Organic Search,Tablet,Organic Search / Tablet,68,22,8,1,0,770.0
+2024-03-31,Paid Social,Desktop,Paid Social / Desktop,363,136,43,5,2,14280.0
+2024-03-31,Paid Social,Mobile,Paid Social / Mobile,368,81,26,3,1,8505.0
+2024-03-31,Paid Social,Tablet,Paid Social / Tablet,94,23,7,1,0,2415.0
+2024-03-31,Email,Desktop,Email / Desktop,131,63,26,4,2,3024.0
+2024-03-31,Email,Mobile,Email / Mobile,134,44,14,3,1,2112.0
+2024-03-31,Email,Tablet,Email / Tablet,33,14,6,1,0,672.0
+2024-03-31,Display,Desktop,Display / Desktop,238,69,21,2,1,4692.0
+2024-03-31,Display,Mobile,Display / Mobile,290,63,16,1,0,4284.0
+2024-03-31,Display,Tablet,Display / Tablet,57,12,4,0,0,816.0
+2024-04-01,Paid Search,Desktop,Paid Search / Desktop,332,144,53,7,3,24480.0
+2024-04-01,Paid Search,Mobile,Paid Search / Mobile,562,177,67,12,5,30090.0
+2024-04-01,Paid Search,Tablet,Paid Search / Tablet,123,40,20,2,1,6800.0
+2024-04-01,Organic Search,Desktop,Organic Search / Desktop,206,77,27,3,1,2695.0
+2024-04-01,Organic Search,Mobile,Organic Search / Mobile,430,125,47,8,3,4375.0
+2024-04-01,Organic Search,Tablet,Organic Search / Tablet,66,17,8,1,0,595.0
+2024-04-01,Paid Social,Desktop,Paid Social / Desktop,362,120,45,4,1,12600.0
+2024-04-01,Paid Social,Mobile,Paid Social / Mobile,573,131,49,5,2,13755.0
+2024-04-01,Paid Social,Tablet,Paid Social / Tablet,111,33,10,1,0,3465.0
+2024-04-01,Email,Desktop,Email / Desktop,93,44,20,4,2,2112.0
+2024-04-01,Email,Mobile,Email / Mobile,164,68,30,7,3,3264.0
+2024-04-01,Email,Tablet,Email / Tablet,33,14,5,1,0,672.0
+2024-04-01,Display,Desktop,Display / Desktop,166,48,13,1,0,3264.0
+2024-04-01,Display,Mobile,Display / Mobile,296,55,15,1,0,3740.0
+2024-04-01,Display,Tablet,Display / Tablet,48,11,4,0,0,748.0
+2024-04-02,Paid Search,Desktop,Paid Search / Desktop,497,182,89,12,5,30940.0
+2024-04-02,Paid Search,Mobile,Paid Search / Mobile,465,123,60,7,3,20910.0
+2024-04-02,Paid Search,Tablet,Paid Search / Tablet,131,43,20,3,1,7310.0
+2024-04-02,Organic Search,Desktop,Organic Search / Desktop,270,96,42,7,3,3360.0
+2024-04-02,Organic Search,Mobile,Organic Search / Mobile,496,130,42,6,2,4550.0
+2024-04-02,Organic Search,Tablet,Organic Search / Tablet,68,20,9,1,0,700.0
+2024-04-02,Paid Social,Desktop,Paid Social / Desktop,402,138,53,4,2,14490.0
+2024-04-02,Paid Social,Mobile,Paid Social / Mobile,495,128,42,4,2,13440.0
+2024-04-02,Paid Social,Tablet,Paid Social / Tablet,74,21,8,1,0,2205.0
+2024-04-02,Email,Desktop,Email / Desktop,102,48,21,3,1,2304.0
+2024-04-02,Email,Mobile,Email / Mobile,212,86,35,6,2,4128.0
+2024-04-02,Email,Tablet,Email / Tablet,29,11,5,1,0,528.0
+2024-04-02,Display,Desktop,Display / Desktop,207,53,19,2,1,3604.0
+2024-04-02,Display,Mobile,Display / Mobile,291,51,12,1,0,3468.0
+2024-04-02,Display,Tablet,Display / Tablet,49,12,3,0,0,816.0
+2024-04-03,Paid Search,Desktop,Paid Search / Desktop,386,167,73,11,3,28390.0
+2024-04-03,Paid Search,Mobile,Paid Search / Mobile,555,164,77,15,7,27880.0
+2024-04-03,Paid Search,Tablet,Paid Search / Tablet,130,39,17,3,1,6630.0
+2024-04-03,Organic Search,Desktop,Organic Search / Desktop,309,126,42,8,3,4410.0
+2024-04-03,Organic Search,Mobile,Organic Search / Mobile,499,143,65,11,4,5005.0
+2024-04-03,Organic Search,Tablet,Organic Search / Tablet,59,17,7,1,0,595.0
+2024-04-03,Paid Social,Desktop,Paid Social / Desktop,295,107,30,3,1,11235.0
+2024-04-03,Paid Social,Mobile,Paid Social / Mobile,445,119,36,4,1,12495.0
+2024-04-03,Paid Social,Tablet,Paid Social / Tablet,106,26,8,1,0,2730.0
+2024-04-03,Email,Desktop,Email / Desktop,104,57,24,4,2,2736.0
+2024-04-03,Email,Mobile,Email / Mobile,190,74,26,7,4,3552.0
+2024-04-03,Email,Tablet,Email / Tablet,39,18,8,2,1,864.0
+2024-04-03,Display,Desktop,Display / Desktop,262,72,19,2,1,4896.0
+2024-04-03,Display,Mobile,Display / Mobile,300,52,14,1,0,3536.0
+2024-04-03,Display,Tablet,Display / Tablet,67,16,5,0,0,1088.0
+2024-04-04,Paid Search,Desktop,Paid Search / Desktop,420,182,86,16,5,30940.0
+2024-04-04,Paid Search,Mobile,Paid Search / Mobile,489,134,67,9,3,22780.0
+2024-04-04,Paid Search,Tablet,Paid Search / Tablet,93,29,13,2,1,4930.0
+2024-04-04,Organic Search,Desktop,Organic Search / Desktop,248,89,33,6,3,3115.0
+2024-04-04,Organic Search,Mobile,Organic Search / Mobile,404,102,33,6,2,3570.0
+2024-04-04,Organic Search,Tablet,Organic Search / Tablet,77,26,9,1,0,910.0
+2024-04-04,Paid Social,Desktop,Paid Social / Desktop,396,127,46,4,2,13335.0
+2024-04-04,Paid Social,Mobile,Paid Social / Mobile,396,94,32,4,1,9870.0
+2024-04-04,Paid Social,Tablet,Paid Social / Tablet,98,29,11,1,0,3045.0
+2024-04-04,Email,Desktop,Email / Desktop,92,50,21,5,2,2400.0
+2024-04-04,Email,Mobile,Email / Mobile,164,65,25,5,2,3120.0
+2024-04-04,Email,Tablet,Email / Tablet,32,12,5,1,1,576.0
+2024-04-04,Display,Desktop,Display / Desktop,201,50,18,2,1,3400.0
+2024-04-04,Display,Mobile,Display / Mobile,372,78,23,2,1,5304.0
+2024-04-04,Display,Tablet,Display / Tablet,70,15,4,0,0,1020.0
+2024-04-05,Paid Search,Desktop,Paid Search / Desktop,303,136,56,10,5,23120.0
+2024-04-05,Paid Search,Mobile,Paid Search / Mobile,470,135,61,9,3,22950.0
+2024-04-05,Paid Search,Tablet,Paid Search / Tablet,128,42,18,4,1,7140.0
+2024-04-05,Organic Search,Desktop,Organic Search / Desktop,303,108,47,6,3,3780.0
+2024-04-05,Organic Search,Mobile,Organic Search / Mobile,400,112,39,5,2,3920.0
+2024-04-05,Organic Search,Tablet,Organic Search / Tablet,83,26,8,1,0,910.0
+2024-04-05,Paid Social,Desktop,Paid Social / Desktop,325,124,40,4,1,13020.0
+2024-04-05,Paid Social,Mobile,Paid Social / Mobile,589,126,49,5,2,13230.0
+2024-04-05,Paid Social,Tablet,Paid Social / Tablet,85,23,9,1,0,2415.0
+2024-04-05,Email,Desktop,Email / Desktop,135,79,26,7,3,3792.0
+2024-04-05,Email,Mobile,Email / Mobile,153,54,17,3,2,2592.0
+2024-04-05,Email,Tablet,Email / Tablet,33,15,7,2,1,720.0
+2024-04-05,Display,Desktop,Display / Desktop,243,70,20,1,0,4760.0
+2024-04-05,Display,Mobile,Display / Mobile,346,61,17,2,1,4148.0
+2024-04-05,Display,Tablet,Display / Tablet,54,11,3,0,0,748.0
+2024-04-06,Paid Search,Desktop,Paid Search / Desktop,344,147,73,11,5,24990.0
+2024-04-06,Paid Search,Mobile,Paid Search / Mobile,582,174,70,12,4,29580.0
+2024-04-06,Paid Search,Tablet,Paid Search / Tablet,98,30,10,2,1,5100.0
+2024-04-06,Organic Search,Desktop,Organic Search / Desktop,239,99,37,4,2,3465.0
+2024-04-06,Organic Search,Mobile,Organic Search / Mobile,457,119,51,6,2,4165.0
+2024-04-06,Organic Search,Tablet,Organic Search / Tablet,61,17,6,1,0,595.0
+2024-04-06,Paid Social,Desktop,Paid Social / Desktop,290,105,42,5,2,11025.0
+2024-04-06,Paid Social,Mobile,Paid Social / Mobile,460,119,43,4,1,12495.0
+2024-04-06,Paid Social,Tablet,Paid Social / Tablet,108,27,8,1,0,2835.0
+2024-04-06,Email,Desktop,Email / Desktop,104,53,16,3,1,2544.0
+2024-04-06,Email,Mobile,Email / Mobile,196,81,36,6,3,3888.0
+2024-04-06,Email,Tablet,Email / Tablet,39,17,6,2,1,816.0
+2024-04-06,Display,Desktop,Display / Desktop,228,67,19,1,0,4556.0
+2024-04-06,Display,Mobile,Display / Mobile,364,79,23,2,1,5372.0
+2024-04-06,Display,Tablet,Display / Tablet,54,11,4,0,0,748.0
+2024-04-07,Paid Search,Desktop,Paid Search / Desktop,339,125,48,9,3,21250.0
+2024-04-07,Paid Search,Mobile,Paid Search / Mobile,512,133,45,5,2,22610.0
+2024-04-07,Paid Search,Tablet,Paid Search / Tablet,135,49,21,4,1,8330.0
+2024-04-07,Organic Search,Desktop,Organic Search / Desktop,326,108,43,5,2,3780.0
+2024-04-07,Organic Search,Mobile,Organic Search / Mobile,387,111,47,7,3,3885.0
+2024-04-07,Organic Search,Tablet,Organic Search / Tablet,93,24,11,1,0,840.0
+2024-04-07,Paid Social,Desktop,Paid Social / Desktop,396,141,52,4,2,14805.0
+2024-04-07,Paid Social,Mobile,Paid Social / Mobile,382,103,33,4,1,10815.0
+2024-04-07,Paid Social,Tablet,Paid Social / Tablet,81,21,8,1,0,2205.0
+2024-04-07,Email,Desktop,Email / Desktop,89,45,14,2,1,2160.0
+2024-04-07,Email,Mobile,Email / Mobile,163,57,23,6,3,2736.0
+2024-04-07,Email,Tablet,Email / Tablet,33,12,5,1,0,576.0
+2024-04-07,Display,Desktop,Display / Desktop,171,44,12,1,0,2992.0
+2024-04-07,Display,Mobile,Display / Mobile,389,84,26,2,1,5712.0
+2024-04-07,Display,Tablet,Display / Tablet,59,14,4,0,0,952.0
+2024-04-08,Paid Search,Desktop,Paid Search / Desktop,485,212,75,14,6,36040.0
+2024-04-08,Paid Search,Mobile,Paid Search / Mobile,584,147,64,9,4,24990.0
+2024-04-08,Paid Search,Tablet,Paid Search / Tablet,127,44,17,3,1,7480.0
+2024-04-08,Organic Search,Desktop,Organic Search / Desktop,240,87,39,6,2,3045.0
+2024-04-08,Organic Search,Mobile,Organic Search / Mobile,358,89,29,4,2,3115.0
+2024-04-08,Organic Search,Tablet,Organic Search / Tablet,84,28,12,2,1,980.0
+2024-04-08,Paid Social,Desktop,Paid Social / Desktop,331,107,40,5,2,11235.0
+2024-04-08,Paid Social,Mobile,Paid Social / Mobile,371,99,30,3,1,10395.0
+2024-04-08,Paid Social,Tablet,Paid Social / Tablet,109,31,11,1,0,3255.0
+2024-04-08,Email,Desktop,Email / Desktop,106,53,21,5,2,2544.0
+2024-04-08,Email,Mobile,Email / Mobile,183,69,30,7,3,3312.0
+2024-04-08,Email,Tablet,Email / Tablet,24,9,3,1,1,432.0
+2024-04-08,Display,Desktop,Display / Desktop,174,43,10,1,0,2924.0
+2024-04-08,Display,Mobile,Display / Mobile,284,49,13,1,0,3332.0
+2024-04-08,Display,Tablet,Display / Tablet,67,13,4,0,0,884.0
+2024-04-09,Paid Search,Desktop,Paid Search / Desktop,445,165,76,11,5,28050.0
+2024-04-09,Paid Search,Mobile,Paid Search / Mobile,517,132,64,9,4,22440.0
+2024-04-09,Paid Search,Tablet,Paid Search / Tablet,105,35,16,3,1,5950.0
+2024-04-09,Organic Search,Desktop,Organic Search / Desktop,247,99,43,7,3,3465.0
+2024-04-09,Organic Search,Mobile,Organic Search / Mobile,453,129,53,8,3,4515.0
+2024-04-09,Organic Search,Tablet,Organic Search / Tablet,72,20,9,2,1,700.0
+2024-04-09,Paid Social,Desktop,Paid Social / Desktop,404,123,50,5,2,12915.0
+2024-04-09,Paid Social,Mobile,Paid Social / Mobile,606,131,52,7,2,13755.0
+2024-04-09,Paid Social,Tablet,Paid Social / Tablet,97,28,11,1,0,2940.0
+2024-04-09,Email,Desktop,Email / Desktop,104,49,17,3,1,2352.0
+2024-04-09,Email,Mobile,Email / Mobile,210,87,34,7,3,4176.0
+2024-04-09,Email,Tablet,Email / Tablet,25,11,4,1,0,528.0
+2024-04-09,Display,Desktop,Display / Desktop,219,55,19,2,1,3740.0
+2024-04-09,Display,Mobile,Display / Mobile,267,50,17,2,1,3400.0
+2024-04-09,Display,Tablet,Display / Tablet,57,11,4,0,0,748.0
+2024-04-10,Paid Search,Desktop,Paid Search / Desktop,400,177,80,10,3,30090.0
+2024-04-10,Paid Search,Mobile,Paid Search / Mobile,709,217,106,16,6,36890.0
+2024-04-10,Paid Search,Tablet,Paid Search / Tablet,103,37,15,3,1,6290.0
+2024-04-10,Organic Search,Desktop,Organic Search / Desktop,328,109,40,7,3,3815.0
+2024-04-10,Organic Search,Mobile,Organic Search / Mobile,357,90,29,4,2,3150.0
+2024-04-10,Organic Search,Tablet,Organic Search / Tablet,61,17,7,1,0,595.0
+2024-04-10,Paid Social,Desktop,Paid Social / Desktop,304,99,28,3,1,10395.0
+2024-04-10,Paid Social,Mobile,Paid Social / Mobile,522,133,39,4,1,13965.0
+2024-04-10,Paid Social,Tablet,Paid Social / Tablet,70,18,7,1,0,1890.0
+2024-04-10,Email,Desktop,Email / Desktop,102,54,22,5,2,2592.0
+2024-04-10,Email,Mobile,Email / Mobile,208,86,38,6,3,4128.0
+2024-04-10,Email,Tablet,Email / Tablet,40,15,6,1,1,720.0
+2024-04-10,Display,Desktop,Display / Desktop,180,53,17,2,1,3604.0
+2024-04-10,Display,Mobile,Display / Mobile,413,72,22,2,1,4896.0
+2024-04-10,Display,Tablet,Display / Tablet,47,11,3,0,0,748.0
+2024-04-11,Paid Search,Desktop,Paid Search / Desktop,333,127,49,6,2,21590.0
+2024-04-11,Paid Search,Mobile,Paid Search / Mobile,488,158,67,9,4,26860.0
+2024-04-11,Paid Search,Tablet,Paid Search / Tablet,100,29,10,2,1,4930.0
+2024-04-11,Organic Search,Desktop,Organic Search / Desktop,304,128,44,8,2,4480.0
+2024-04-11,Organic Search,Mobile,Organic Search / Mobile,340,102,39,6,2,3570.0
+2024-04-11,Organic Search,Tablet,Organic Search / Tablet,68,20,9,1,0,700.0
+2024-04-11,Paid Social,Desktop,Paid Social / Desktop,312,112,44,4,1,11760.0
+2024-04-11,Paid Social,Mobile,Paid Social / Mobile,489,118,43,4,1,12390.0
+2024-04-11,Paid Social,Tablet,Paid Social / Tablet,109,26,9,1,0,2730.0
+2024-04-11,Email,Desktop,Email / Desktop,89,42,17,3,1,2016.0
+2024-04-11,Email,Mobile,Email / Mobile,212,86,28,7,3,4128.0
+2024-04-11,Email,Tablet,Email / Tablet,31,12,4,1,0,576.0
+2024-04-11,Display,Desktop,Display / Desktop,237,66,20,2,1,4488.0
+2024-04-11,Display,Mobile,Display / Mobile,398,79,23,2,1,5372.0
+2024-04-11,Display,Tablet,Display / Tablet,63,14,4,0,0,952.0
+2024-04-12,Paid Search,Desktop,Paid Search / Desktop,348,158,75,9,4,26860.0
+2024-04-12,Paid Search,Mobile,Paid Search / Mobile,654,194,89,15,7,32980.0
+2024-04-12,Paid Search,Tablet,Paid Search / Tablet,106,38,18,2,1,6460.0
+2024-04-12,Organic Search,Desktop,Organic Search / Desktop,211,79,28,5,2,2765.0
+2024-04-12,Organic Search,Mobile,Organic Search / Mobile,342,97,39,7,2,3395.0
+2024-04-12,Organic Search,Tablet,Organic Search / Tablet,63,17,6,1,0,595.0
+2024-04-12,Paid Social,Desktop,Paid Social / Desktop,394,136,43,5,2,14280.0
+2024-04-12,Paid Social,Mobile,Paid Social / Mobile,426,97,35,3,1,10185.0
+2024-04-12,Paid Social,Tablet,Paid Social / Tablet,77,22,6,1,0,2310.0
+2024-04-12,Email,Desktop,Email / Desktop,90,47,19,4,2,2256.0
+2024-04-12,Email,Mobile,Email / Mobile,198,71,31,7,3,3408.0
+2024-04-12,Email,Tablet,Email / Tablet,29,11,4,1,1,528.0
+2024-04-12,Display,Desktop,Display / Desktop,196,59,20,2,1,4012.0
+2024-04-12,Display,Mobile,Display / Mobile,357,77,19,2,1,5236.0
+2024-04-12,Display,Tablet,Display / Tablet,61,14,5,1,0,952.0
+2024-04-13,Paid Search,Desktop,Paid Search / Desktop,412,188,74,15,6,31960.0
+2024-04-13,Paid Search,Mobile,Paid Search / Mobile,540,159,59,10,5,27030.0
+2024-04-13,Paid Search,Tablet,Paid Search / Tablet,132,39,14,2,1,6630.0
+2024-04-13,Organic Search,Desktop,Organic Search / Desktop,316,115,45,5,2,4025.0
+2024-04-13,Organic Search,Mobile,Organic Search / Mobile,509,129,50,9,4,4515.0
+2024-04-13,Organic Search,Tablet,Organic Search / Tablet,89,29,12,2,1,1015.0
+2024-04-13,Paid Social,Desktop,Paid Social / Desktop,306,102,30,3,1,10710.0
+2024-04-13,Paid Social,Mobile,Paid Social / Mobile,387,99,35,3,1,10395.0
+2024-04-13,Paid Social,Tablet,Paid Social / Tablet,91,22,6,1,0,2310.0
+2024-04-13,Email,Desktop,Email / Desktop,130,70,28,6,2,3360.0
+2024-04-13,Email,Mobile,Email / Mobile,146,54,22,5,2,2592.0
+2024-04-13,Email,Tablet,Email / Tablet,38,15,5,1,0,720.0
+2024-04-13,Display,Desktop,Display / Desktop,184,57,20,1,0,3876.0
+2024-04-13,Display,Mobile,Display / Mobile,266,56,14,1,0,3808.0
+2024-04-13,Display,Tablet,Display / Tablet,47,11,3,0,0,748.0
+2024-04-14,Paid Search,Desktop,Paid Search / Desktop,386,159,64,13,6,27030.0
+2024-04-14,Paid Search,Mobile,Paid Search / Mobile,633,187,80,14,5,31790.0
+2024-04-14,Paid Search,Tablet,Paid Search / Tablet,134,38,19,3,1,6460.0
+2024-04-14,Organic Search,Desktop,Organic Search / Desktop,306,123,51,9,4,4305.0
+2024-04-14,Organic Search,Mobile,Organic Search / Mobile,375,96,30,4,2,3360.0
+2024-04-14,Organic Search,Tablet,Organic Search / Tablet,69,20,9,2,1,700.0
+2024-04-14,Paid Social,Desktop,Paid Social / Desktop,352,106,41,5,1,11130.0
+2024-04-14,Paid Social,Mobile,Paid Social / Mobile,451,102,34,3,1,10710.0
+2024-04-14,Paid Social,Tablet,Paid Social / Tablet,71,21,8,1,0,2205.0
+2024-04-14,Email,Desktop,Email / Desktop,91,49,17,4,1,2352.0
+2024-04-14,Email,Mobile,Email / Mobile,213,73,30,6,2,3504.0
+2024-04-14,Email,Tablet,Email / Tablet,33,13,5,1,0,624.0
+2024-04-14,Display,Desktop,Display / Desktop,268,70,18,1,0,4760.0
+2024-04-14,Display,Mobile,Display / Mobile,364,75,27,2,1,5100.0
+2024-04-14,Display,Tablet,Display / Tablet,67,13,3,0,0,884.0
+2024-04-15,Paid Search,Desktop,Paid Search / Desktop,320,117,56,12,5,19890.0
+2024-04-15,Paid Search,Mobile,Paid Search / Mobile,547,147,55,11,5,24990.0
+2024-04-15,Paid Search,Tablet,Paid Search / Tablet,109,31,13,2,1,5270.0
+2024-04-15,Organic Search,Desktop,Organic Search / Desktop,340,113,48,8,4,3955.0
+2024-04-15,Organic Search,Mobile,Organic Search / Mobile,507,142,49,7,3,4970.0
+2024-04-15,Organic Search,Tablet,Organic Search / Tablet,65,18,6,1,0,630.0
+2024-04-15,Paid Social,Desktop,Paid Social / Desktop,361,126,42,5,1,13230.0
+2024-04-15,Paid Social,Mobile,Paid Social / Mobile,394,97,33,3,1,10185.0
+2024-04-15,Paid Social,Tablet,Paid Social / Tablet,70,20,8,1,0,2100.0
+2024-04-15,Email,Desktop,Email / Desktop,137,79,28,5,2,3792.0
+2024-04-15,Email,Mobile,Email / Mobile,201,71,25,5,2,3408.0
+2024-04-15,Email,Tablet,Email / Tablet,37,17,7,1,0,816.0
+2024-04-15,Display,Desktop,Display / Desktop,219,58,17,2,1,3944.0
+2024-04-15,Display,Mobile,Display / Mobile,372,67,17,2,1,4556.0
+2024-04-15,Display,Tablet,Display / Tablet,59,12,4,0,0,816.0
+2024-04-16,Paid Search,Desktop,Paid Search / Desktop,310,127,56,9,4,21590.0
+2024-04-16,Paid Search,Mobile,Paid Search / Mobile,600,169,61,7,3,28730.0
+2024-04-16,Paid Search,Tablet,Paid Search / Tablet,137,45,17,3,1,7650.0
+2024-04-16,Organic Search,Desktop,Organic Search / Desktop,298,108,47,6,3,3780.0
+2024-04-16,Organic Search,Mobile,Organic Search / Mobile,342,93,39,7,3,3255.0
+2024-04-16,Organic Search,Tablet,Organic Search / Tablet,60,16,6,1,0,560.0
+2024-04-16,Paid Social,Desktop,Paid Social / Desktop,349,115,43,4,1,12075.0
+2024-04-16,Paid Social,Mobile,Paid Social / Mobile,400,91,29,3,1,9555.0
+2024-04-16,Paid Social,Tablet,Paid Social / Tablet,94,26,11,1,0,2730.0
+2024-04-16,Email,Desktop,Email / Desktop,126,68,25,5,2,3264.0
+2024-04-16,Email,Mobile,Email / Mobile,209,69,27,5,2,3312.0
+2024-04-16,Email,Tablet,Email / Tablet,31,13,5,1,0,624.0
+2024-04-16,Display,Desktop,Display / Desktop,181,56,15,1,0,3808.0
+2024-04-16,Display,Mobile,Display / Mobile,279,61,17,2,1,4148.0
+2024-04-16,Display,Tablet,Display / Tablet,56,12,3,0,0,816.0
+2024-04-17,Paid Search,Desktop,Paid Search / Desktop,424,186,92,19,9,31620.0
+2024-04-17,Paid Search,Mobile,Paid Search / Mobile,671,185,93,20,9,31450.0
+2024-04-17,Paid Search,Tablet,Paid Search / Tablet,91,26,10,1,0,4420.0
+2024-04-17,Organic Search,Desktop,Organic Search / Desktop,285,95,38,5,2,3325.0
+2024-04-17,Organic Search,Mobile,Organic Search / Mobile,433,129,46,7,3,4515.0
+2024-04-17,Organic Search,Tablet,Organic Search / Tablet,60,16,6,1,0,560.0
+2024-04-17,Paid Social,Desktop,Paid Social / Desktop,294,90,27,3,1,9450.0
+2024-04-17,Paid Social,Mobile,Paid Social / Mobile,547,137,54,4,1,14385.0
+2024-04-17,Paid Social,Tablet,Paid Social / Tablet,102,25,8,1,0,2625.0
+2024-04-17,Email,Desktop,Email / Desktop,123,65,23,5,2,3120.0
+2024-04-17,Email,Mobile,Email / Mobile,145,61,20,4,1,2928.0
+2024-04-17,Email,Tablet,Email / Tablet,35,16,5,1,0,768.0
+2024-04-17,Display,Desktop,Display / Desktop,229,65,22,2,1,4420.0
+2024-04-17,Display,Mobile,Display / Mobile,312,55,15,1,0,3740.0
+2024-04-17,Display,Tablet,Display / Tablet,58,14,3,0,0,952.0
+2024-04-18,Paid Search,Desktop,Paid Search / Desktop,307,136,51,10,4,23120.0
+2024-04-18,Paid Search,Mobile,Paid Search / Mobile,663,206,71,10,5,35020.0
+2024-04-18,Paid Search,Tablet,Paid Search / Tablet,129,36,18,2,1,6120.0
+2024-04-18,Organic Search,Desktop,Organic Search / Desktop,341,112,38,6,2,3920.0
+2024-04-18,Organic Search,Mobile,Organic Search / Mobile,477,142,49,7,2,4970.0
+2024-04-18,Organic Search,Tablet,Organic Search / Tablet,79,23,10,2,1,805.0
+2024-04-18,Paid Social,Desktop,Paid Social / Desktop,392,117,40,5,1,12285.0
+2024-04-18,Paid Social,Mobile,Paid Social / Mobile,448,104,29,3,1,10920.0
+2024-04-18,Paid Social,Tablet,Paid Social / Tablet,83,20,7,1,0,2100.0
+2024-04-18,Email,Desktop,Email / Desktop,89,47,21,5,2,2256.0
+2024-04-18,Email,Mobile,Email / Mobile,153,51,19,3,1,2448.0
+2024-04-18,Email,Tablet,Email / Tablet,37,15,5,1,1,720.0
+2024-04-18,Display,Desktop,Display / Desktop,201,59,20,2,1,4012.0
+2024-04-18,Display,Mobile,Display / Mobile,323,69,20,2,1,4692.0
+2024-04-18,Display,Tablet,Display / Tablet,59,12,4,0,0,816.0
+2024-04-19,Paid Search,Desktop,Paid Search / Desktop,370,160,59,11,4,27200.0
+2024-04-19,Paid Search,Mobile,Paid Search / Mobile,636,177,67,11,3,30090.0
+2024-04-19,Paid Search,Tablet,Paid Search / Tablet,106,37,14,3,1,6290.0
+2024-04-19,Organic Search,Desktop,Organic Search / Desktop,244,86,39,6,2,3010.0
+2024-04-19,Organic Search,Mobile,Organic Search / Mobile,406,115,50,7,2,4025.0
+2024-04-19,Organic Search,Tablet,Organic Search / Tablet,68,18,6,1,0,630.0
+2024-04-19,Paid Social,Desktop,Paid Social / Desktop,337,102,40,3,1,10710.0
+2024-04-19,Paid Social,Mobile,Paid Social / Mobile,557,138,39,4,2,14490.0
+2024-04-19,Paid Social,Tablet,Paid Social / Tablet,101,28,9,1,0,2940.0
+2024-04-19,Email,Desktop,Email / Desktop,144,76,30,6,3,3648.0
+2024-04-19,Email,Mobile,Email / Mobile,144,51,22,4,1,2448.0
+2024-04-19,Email,Tablet,Email / Tablet,28,11,5,1,0,528.0
+2024-04-19,Display,Desktop,Display / Desktop,270,71,20,1,0,4828.0
+2024-04-19,Display,Mobile,Display / Mobile,308,52,14,1,0,3536.0
+2024-04-19,Display,Tablet,Display / Tablet,62,13,3,0,0,884.0
+2024-04-20,Paid Search,Desktop,Paid Search / Desktop,317,129,59,10,3,21930.0
+2024-04-20,Paid Search,Mobile,Paid Search / Mobile,462,136,54,10,3,23120.0
+2024-04-20,Paid Search,Tablet,Paid Search / Tablet,123,38,14,3,1,6460.0
+2024-04-20,Organic Search,Desktop,Organic Search / Desktop,287,118,52,9,4,4130.0
+2024-04-20,Organic Search,Mobile,Organic Search / Mobile,327,86,32,5,2,3010.0
+2024-04-20,Organic Search,Tablet,Organic Search / Tablet,77,21,8,1,0,735.0
+2024-04-20,Paid Social,Desktop,Paid Social / Desktop,283,104,42,4,2,10920.0
+2024-04-20,Paid Social,Mobile,Paid Social / Mobile,535,121,45,5,1,12705.0
+2024-04-20,Paid Social,Tablet,Paid Social / Tablet,72,21,7,1,0,2205.0
+2024-04-20,Email,Desktop,Email / Desktop,113,54,23,4,1,2592.0
+2024-04-20,Email,Mobile,Email / Mobile,206,74,29,6,3,3552.0
+2024-04-20,Email,Tablet,Email / Tablet,27,11,4,1,0,528.0
+2024-04-20,Display,Desktop,Display / Desktop,211,55,14,1,0,3740.0
+2024-04-20,Display,Mobile,Display / Mobile,270,58,15,1,0,3944.0
+2024-04-20,Display,Tablet,Display / Tablet,61,13,4,0,0,884.0
+2024-04-21,Paid Search,Desktop,Paid Search / Desktop,305,138,68,12,5,23460.0
+2024-04-21,Paid Search,Mobile,Paid Search / Mobile,607,183,66,13,5,31110.0
+2024-04-21,Paid Search,Tablet,Paid Search / Tablet,129,46,21,4,2,7820.0
+2024-04-21,Organic Search,Desktop,Organic Search / Desktop,256,107,44,8,3,3745.0
+2024-04-21,Organic Search,Mobile,Organic Search / Mobile,414,119,47,8,3,4165.0
+2024-04-21,Organic Search,Tablet,Organic Search / Tablet,93,25,8,1,0,875.0
+2024-04-21,Paid Social,Desktop,Paid Social / Desktop,298,108,36,3,1,11340.0
+2024-04-21,Paid Social,Mobile,Paid Social / Mobile,575,134,37,4,1,14070.0
+2024-04-21,Paid Social,Tablet,Paid Social / Tablet,81,20,6,1,0,2100.0
+2024-04-21,Email,Desktop,Email / Desktop,142,68,22,3,1,3264.0
+2024-04-21,Email,Mobile,Email / Mobile,190,71,23,4,2,3408.0
+2024-04-21,Email,Tablet,Email / Tablet,25,11,4,1,0,528.0
+2024-04-21,Display,Desktop,Display / Desktop,172,44,14,1,0,2992.0
+2024-04-21,Display,Mobile,Display / Mobile,366,77,25,3,1,5236.0
+2024-04-21,Display,Tablet,Display / Tablet,71,17,4,0,0,1156.0
+2024-04-22,Paid Search,Desktop,Paid Search / Desktop,397,153,53,7,2,26010.0
+2024-04-22,Paid Search,Mobile,Paid Search / Mobile,650,191,79,11,5,32470.0
+2024-04-22,Paid Search,Tablet,Paid Search / Tablet,108,36,13,2,1,6120.0
+2024-04-22,Organic Search,Desktop,Organic Search / Desktop,241,90,39,5,2,3150.0
+2024-04-22,Organic Search,Mobile,Organic Search / Mobile,440,107,44,5,2,3745.0
+2024-04-22,Organic Search,Tablet,Organic Search / Tablet,74,20,7,1,0,700.0
+2024-04-22,Paid Social,Desktop,Paid Social / Desktop,286,101,37,3,1,10605.0
+2024-04-22,Paid Social,Mobile,Paid Social / Mobile,501,124,44,4,1,13020.0
+2024-04-22,Paid Social,Tablet,Paid Social / Tablet,87,26,8,1,0,2730.0
+2024-04-22,Email,Desktop,Email / Desktop,111,56,22,6,3,2688.0
+2024-04-22,Email,Mobile,Email / Mobile,152,63,24,6,3,3024.0
+2024-04-22,Email,Tablet,Email / Tablet,27,12,5,1,1,576.0
+2024-04-22,Display,Desktop,Display / Desktop,241,73,23,2,1,4964.0
+2024-04-22,Display,Mobile,Display / Mobile,410,75,23,2,1,5100.0
+2024-04-22,Display,Tablet,Display / Tablet,76,16,5,0,0,1088.0
+2024-04-23,Paid Search,Desktop,Paid Search / Desktop,433,188,92,12,6,31960.0
+2024-04-23,Paid Search,Mobile,Paid Search / Mobile,614,155,67,13,4,26350.0
+2024-04-23,Paid Search,Tablet,Paid Search / Tablet,134,48,20,4,2,8160.0
+2024-04-23,Organic Search,Desktop,Organic Search / Desktop,276,90,39,7,3,3150.0
+2024-04-23,Organic Search,Mobile,Organic Search / Mobile,406,101,34,4,2,3535.0
+2024-04-23,Organic Search,Tablet,Organic Search / Tablet,84,23,8,1,0,805.0
+2024-04-23,Paid Social,Desktop,Paid Social / Desktop,269,98,38,4,1,10290.0
+2024-04-23,Paid Social,Mobile,Paid Social / Mobile,590,158,62,7,3,16590.0
+2024-04-23,Paid Social,Tablet,Paid Social / Tablet,79,22,8,1,0,2310.0
+2024-04-23,Email,Desktop,Email / Desktop,100,46,19,4,2,2208.0
+2024-04-23,Email,Mobile,Email / Mobile,199,80,31,5,2,3840.0
+2024-04-23,Email,Tablet,Email / Tablet,35,15,7,1,0,720.0
+2024-04-23,Display,Desktop,Display / Desktop,276,72,21,2,1,4896.0
+2024-04-23,Display,Mobile,Display / Mobile,340,61,22,2,1,4148.0
+2024-04-23,Display,Tablet,Display / Tablet,58,11,3,0,0,748.0
+2024-04-24,Paid Search,Desktop,Paid Search / Desktop,431,161,76,15,5,27370.0
+2024-04-24,Paid Search,Mobile,Paid Search / Mobile,482,147,69,9,4,24990.0
+2024-04-24,Paid Search,Tablet,Paid Search / Tablet,139,42,17,3,1,7140.0
+2024-04-24,Organic Search,Desktop,Organic Search / Desktop,257,98,38,6,3,3430.0
+2024-04-24,Organic Search,Mobile,Organic Search / Mobile,381,107,44,7,2,3745.0
+2024-04-24,Organic Search,Tablet,Organic Search / Tablet,71,23,9,1,0,805.0
+2024-04-24,Paid Social,Desktop,Paid Social / Desktop,342,109,42,5,2,11445.0
+2024-04-24,Paid Social,Mobile,Paid Social / Mobile,444,120,41,4,1,12600.0
+2024-04-24,Paid Social,Tablet,Paid Social / Tablet,107,27,9,1,0,2835.0
+2024-04-24,Email,Desktop,Email / Desktop,119,65,24,5,3,3120.0
+2024-04-24,Email,Mobile,Email / Mobile,134,55,19,3,2,2640.0
+2024-04-24,Email,Tablet,Email / Tablet,37,16,5,1,1,768.0
+2024-04-24,Display,Desktop,Display / Desktop,237,59,20,2,1,4012.0
+2024-04-24,Display,Mobile,Display / Mobile,353,64,20,2,1,4352.0
+2024-04-24,Display,Tablet,Display / Tablet,47,9,3,0,0,612.0
+2024-04-25,Paid Search,Desktop,Paid Search / Desktop,371,160,73,10,4,27200.0
+2024-04-25,Paid Search,Mobile,Paid Search / Mobile,505,145,56,10,5,24650.0
+2024-04-25,Paid Search,Tablet,Paid Search / Tablet,131,43,19,2,1,7310.0
+2024-04-25,Organic Search,Desktop,Organic Search / Desktop,314,119,38,5,2,4165.0
+2024-04-25,Organic Search,Mobile,Organic Search / Mobile,430,113,41,7,3,3955.0
+2024-04-25,Organic Search,Tablet,Organic Search / Tablet,80,25,11,2,1,875.0
+2024-04-25,Paid Social,Desktop,Paid Social / Desktop,272,95,37,5,2,9975.0
+2024-04-25,Paid Social,Mobile,Paid Social / Mobile,443,99,34,4,1,10395.0
+2024-04-25,Paid Social,Tablet,Paid Social / Tablet,88,26,7,1,0,2730.0
+2024-04-25,Email,Desktop,Email / Desktop,130,67,27,5,2,3216.0
+2024-04-25,Email,Mobile,Email / Mobile,182,68,30,6,3,3264.0
+2024-04-25,Email,Tablet,Email / Tablet,39,17,7,2,1,816.0
+2024-04-25,Display,Desktop,Display / Desktop,207,56,14,1,0,3808.0
+2024-04-25,Display,Mobile,Display / Mobile,398,83,29,3,1,5644.0
+2024-04-25,Display,Tablet,Display / Tablet,73,14,5,0,0,952.0
+2024-04-26,Paid Search,Desktop,Paid Search / Desktop,449,177,62,10,5,30090.0
+2024-04-26,Paid Search,Mobile,Paid Search / Mobile,509,146,67,10,3,24820.0
+2024-04-26,Paid Search,Tablet,Paid Search / Tablet,120,37,14,2,1,6290.0
+2024-04-26,Organic Search,Desktop,Organic Search / Desktop,216,82,27,5,2,2870.0
+2024-04-26,Organic Search,Mobile,Organic Search / Mobile,470,135,45,5,2,4725.0
+2024-04-26,Organic Search,Tablet,Organic Search / Tablet,92,25,8,1,0,875.0
+2024-04-26,Paid Social,Desktop,Paid Social / Desktop,398,130,40,5,2,13650.0
+2024-04-26,Paid Social,Mobile,Paid Social / Mobile,451,102,39,5,1,10710.0
+2024-04-26,Paid Social,Tablet,Paid Social / Tablet,84,20,6,1,0,2100.0
+2024-04-26,Email,Desktop,Email / Desktop,131,69,25,6,3,3312.0
+2024-04-26,Email,Mobile,Email / Mobile,140,58,25,6,3,2784.0
+2024-04-26,Email,Tablet,Email / Tablet,37,16,5,1,0,768.0
+2024-04-26,Display,Desktop,Display / Desktop,199,59,15,2,1,4012.0
+2024-04-26,Display,Mobile,Display / Mobile,325,63,16,2,1,4284.0
+2024-04-26,Display,Tablet,Display / Tablet,59,12,4,0,0,816.0
+2024-04-27,Paid Search,Desktop,Paid Search / Desktop,467,171,78,16,7,29070.0
+2024-04-27,Paid Search,Mobile,Paid Search / Mobile,596,164,81,12,5,27880.0
+2024-04-27,Paid Search,Tablet,Paid Search / Tablet,91,33,11,2,1,5610.0
+2024-04-27,Organic Search,Desktop,Organic Search / Desktop,206,70,25,4,2,2450.0
+2024-04-27,Organic Search,Mobile,Organic Search / Mobile,503,146,63,11,3,5110.0
+2024-04-27,Organic Search,Tablet,Organic Search / Tablet,66,22,7,1,0,770.0
+2024-04-27,Paid Social,Desktop,Paid Social / Desktop,388,132,48,4,1,13860.0
+2024-04-27,Paid Social,Mobile,Paid Social / Mobile,523,142,53,4,1,14910.0
+2024-04-27,Paid Social,Tablet,Paid Social / Tablet,92,22,6,1,0,2310.0
+2024-04-27,Email,Desktop,Email / Desktop,137,71,25,6,2,3408.0
+2024-04-27,Email,Mobile,Email / Mobile,162,54,19,4,2,2592.0
+2024-04-27,Email,Tablet,Email / Tablet,29,13,5,1,0,624.0
+2024-04-27,Display,Desktop,Display / Desktop,188,58,16,1,0,3944.0
+2024-04-27,Display,Mobile,Display / Mobile,266,50,15,2,1,3400.0
+2024-04-27,Display,Tablet,Display / Tablet,56,12,3,0,0,816.0
+2024-04-28,Paid Search,Desktop,Paid Search / Desktop,353,135,53,7,3,22950.0
+2024-04-28,Paid Search,Mobile,Paid Search / Mobile,676,190,71,11,5,32300.0
+2024-04-28,Paid Search,Tablet,Paid Search / Tablet,116,40,14,2,1,6800.0
+2024-04-28,Organic Search,Desktop,Organic Search / Desktop,216,81,27,5,2,2835.0
+2024-04-28,Organic Search,Mobile,Organic Search / Mobile,393,111,48,6,3,3885.0
+2024-04-28,Organic Search,Tablet,Organic Search / Tablet,73,24,9,2,1,840.0
+2024-04-28,Paid Social,Desktop,Paid Social / Desktop,375,116,37,4,2,12180.0
+2024-04-28,Paid Social,Mobile,Paid Social / Mobile,424,102,38,3,1,10710.0
+2024-04-28,Paid Social,Tablet,Paid Social / Tablet,107,27,8,1,0,2835.0
+2024-04-28,Email,Desktop,Email / Desktop,124,59,26,5,2,2832.0
+2024-04-28,Email,Mobile,Email / Mobile,164,59,22,5,2,2832.0
+2024-04-28,Email,Tablet,Email / Tablet,25,10,4,1,0,480.0
+2024-04-28,Display,Desktop,Display / Desktop,214,65,20,2,1,4420.0
+2024-04-28,Display,Mobile,Display / Mobile,295,55,14,1,0,3740.0
+2024-04-28,Display,Tablet,Display / Tablet,49,11,3,0,0,748.0
+2024-04-29,Paid Search,Desktop,Paid Search / Desktop,424,187,72,12,5,31790.0
+2024-04-29,Paid Search,Mobile,Paid Search / Mobile,481,138,53,7,3,23460.0
+2024-04-29,Paid Search,Tablet,Paid Search / Tablet,123,40,15,3,1,6800.0
+2024-04-29,Organic Search,Desktop,Organic Search / Desktop,245,99,35,6,3,3465.0
+2024-04-29,Organic Search,Mobile,Organic Search / Mobile,409,118,37,4,1,4130.0
+2024-04-29,Organic Search,Tablet,Organic Search / Tablet,83,22,8,1,0,770.0
+2024-04-29,Paid Social,Desktop,Paid Social / Desktop,383,132,49,5,2,13860.0
+2024-04-29,Paid Social,Mobile,Paid Social / Mobile,460,109,36,3,1,11445.0
+2024-04-29,Paid Social,Tablet,Paid Social / Tablet,88,22,8,1,0,2310.0
+2024-04-29,Email,Desktop,Email / Desktop,96,50,21,5,2,2400.0
+2024-04-29,Email,Mobile,Email / Mobile,176,57,21,5,2,2736.0
+2024-04-29,Email,Tablet,Email / Tablet,31,14,6,1,0,672.0
+2024-04-29,Display,Desktop,Display / Desktop,234,67,18,2,1,4556.0
+2024-04-29,Display,Mobile,Display / Mobile,327,57,17,1,0,3876.0
+2024-04-29,Display,Tablet,Display / Tablet,70,16,5,0,0,1088.0
+2024-04-30,Paid Search,Desktop,Paid Search / Desktop,475,181,82,12,5,30770.0
+2024-04-30,Paid Search,Mobile,Paid Search / Mobile,511,164,68,14,5,27880.0
+2024-04-30,Paid Search,Tablet,Paid Search / Tablet,126,46,17,3,1,7820.0
+2024-04-30,Organic Search,Desktop,Organic Search / Desktop,220,85,36,4,2,2975.0
+2024-04-30,Organic Search,Mobile,Organic Search / Mobile,422,100,30,5,2,3500.0
+2024-04-30,Organic Search,Tablet,Organic Search / Tablet,89,24,7,1,0,840.0
+2024-04-30,Paid Social,Desktop,Paid Social / Desktop,286,86,35,4,2,9030.0
+2024-04-30,Paid Social,Mobile,Paid Social / Mobile,552,151,51,5,1,15855.0
+2024-04-30,Paid Social,Tablet,Paid Social / Tablet,75,18,5,1,0,1890.0
+2024-04-30,Email,Desktop,Email / Desktop,141,66,22,6,3,3168.0
+2024-04-30,Email,Mobile,Email / Mobile,217,76,24,5,2,3648.0
+2024-04-30,Email,Tablet,Email / Tablet,35,16,6,1,0,768.0
+2024-04-30,Display,Desktop,Display / Desktop,258,79,21,2,1,5372.0
+2024-04-30,Display,Mobile,Display / Mobile,399,84,26,2,1,5712.0
+2024-04-30,Display,Tablet,Display / Tablet,50,10,4,0,0,680.0
